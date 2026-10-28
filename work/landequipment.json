@@ -1,0 +1,1466 @@
+[
+  {
+    "code": "110000",
+    "parts": [
+      "GR.EQ.WEAPON"
+    ]
+  },
+  {
+    "code": "110100",
+    "parts": [
+      "GR.EQ.RIFLE"
+    ]
+  },
+  {
+    "code": "110101",
+    "parts": [
+      "GR.EQ.RIFLE",
+      "GR.EQ.SHORT RANGE"
+    ]
+  },
+  {
+    "code": "110102",
+    "parts": [
+      "GR.EQ.RIFLE",
+      "GR.EQ.INTERMEDIATE RANGE"
+    ]
+  },
+  {
+    "code": "110103",
+    "parts": [
+      "GR.EQ.RIFLE",
+      "GR.EQ.LONG RANGE"
+    ]
+  },
+  {
+    "code": "110200",
+    "parts": [
+      "GR.EQ.MACHINE GUN"
+    ]
+  },
+  {
+    "code": "110201",
+    "parts": [
+      "GR.EQ.MACHINE GUN",
+      "GR.EQ.SHORT RANGE"
+    ]
+  },
+  {
+    "code": "110202",
+    "parts": [
+      "GR.EQ.MACHINE GUN",
+      "GR.EQ.INTERMEDIATE RANGE"
+    ]
+  },
+  {
+    "code": "110203",
+    "parts": [
+      "GR.EQ.MACHINE GUN",
+      "GR.EQ.LONG RANGE"
+    ]
+  },
+  {
+    "code": "110300",
+    "parts": [
+      "GR.EQ.GRENADE LAUNCHER"
+    ]
+  },
+  {
+    "code": "110301",
+    "parts": [
+      "GR.EQ.GRENADE LAUNCHER",
+      "GR.EQ.SHORT RANGE"
+    ]
+  },
+  {
+    "code": "110302",
+    "parts": [
+      "GR.EQ.GRENADE LAUNCHER",
+      "GR.EQ.INTERMEDIATE RANGE"
+    ]
+  },
+  {
+    "code": "110303",
+    "parts": [
+      "GR.EQ.GRENADE LAUNCHER",
+      "GR.EQ.LONG RANGE"
+    ]
+  },
+  {
+    "code": "110400",
+    "parts": [
+      "GR.EQ.FLAME THROWER"
+    ]
+  },
+  {
+    "code": "110500",
+    "parts": [
+      "GR.EQ.AIR DEFENCE GUN"
+    ]
+  },
+  {
+    "code": "110501",
+    "parts": [
+      "GR.EQ.AIR DEFENCE GUN",
+      "GR.EQ.SHORT RANGE"
+    ]
+  },
+  {
+    "code": "110502",
+    "parts": [
+      "GR.EQ.AIR DEFENCE GUN",
+      "GR.EQ.INTERMEDIATE RANGE"
+    ]
+  },
+  {
+    "code": "110503",
+    "parts": [
+      "GR.EQ.AIR DEFENCE GUN",
+      "GR.EQ.LONG RANGE"
+    ]
+  },
+  {
+    "code": "110600",
+    "parts": [
+      "GR.EQ.ANTITANK GUN"
+    ]
+  },
+  {
+    "code": "110601",
+    "parts": [
+      "GR.EQ.ANTITANK GUN",
+      "GR.EQ.SHORT RANGE"
+    ]
+  },
+  {
+    "code": "110602",
+    "parts": [
+      "GR.EQ.ANTITANK GUN",
+      "GR.EQ.INTERMEDIATE RANGE"
+    ]
+  },
+  {
+    "code": "110603",
+    "parts": [
+      "GR.EQ.ANTITANK GUN",
+      "GR.EQ.LONG RANGE"
+    ]
+  },
+  {
+    "code": "110700",
+    "parts": [
+      "GR.EQ.DIRECT FIRE GUN"
+    ]
+  },
+  {
+    "code": "110701",
+    "parts": [
+      "GR.EQ.DIRECT FIRE GUN",
+      "GR.EQ.SHORT RANGE"
+    ]
+  },
+  {
+    "code": "110702",
+    "parts": [
+      "GR.EQ.DIRECT FIRE GUN",
+      "GR.EQ.INTERMEDIATE RANGE"
+    ]
+  },
+  {
+    "code": "110703",
+    "parts": [
+      "GR.EQ.DIRECT FIRE GUN",
+      "GR.EQ.LONG RANGE"
+    ]
+  },
+  {
+    "code": "110800",
+    "parts": [
+      "GR.EQ.RECOILLESS GUN"
+    ]
+  },
+  {
+    "code": "110801",
+    "parts": [
+      "GR.EQ.RECOILLESS GUN",
+      "GR.EQ.SHORT RANGE"
+    ]
+  },
+  {
+    "code": "110802",
+    "parts": [
+      "GR.EQ.RECOILLESS GUN",
+      "GR.EQ.INTERMEDIATE RANGE"
+    ]
+  },
+  {
+    "code": "110803",
+    "parts": [
+      "GR.EQ.RECOILLESS GUN",
+      "GR.EQ.LONG RANGE"
+    ]
+  },
+  {
+    "code": "110900",
+    "parts": [
+      "GR.EQ.HOWITZER"
+    ]
+  },
+  {
+    "code": "110901",
+    "parts": [
+      "GR.EQ.HOWITZER",
+      "GR.EQ.SHORT RANGE"
+    ]
+  },
+  {
+    "code": "110902",
+    "parts": [
+      "GR.EQ.HOWITZER",
+      "GR.EQ.INTERMEDIATE RANGE"
+    ]
+  },
+  {
+    "code": "110903",
+    "parts": [
+      "GR.EQ.HOWITZER",
+      "GR.EQ.LONG RANGE"
+    ]
+  },
+  {
+    "code": "111000",
+    "parts": [
+      "GR.EQ.MISSILE LAUNCHER"
+    ]
+  },
+  {
+    "code": "111001",
+    "parts": [
+      "GR.EQ.MISSILE LAUNCHER",
+      "GR.EQ.SHORT RANGE"
+    ]
+  },
+  {
+    "code": "111002",
+    "parts": [
+      "GR.EQ.MISSILE LAUNCHER",
+      "GR.EQ.INTERMEDIATE RANGE"
+    ]
+  },
+  {
+    "code": "111003",
+    "parts": [
+      "GR.EQ.MISSILE LAUNCHER",
+      "GR.EQ.LONG RANGE"
+    ]
+  },
+  {
+    "code": "111100",
+    "parts": [
+      "GR.EQ.AIR DEFENCE MISSILE LAUNCHER SURFACE-TO-AIR"
+    ]
+  },
+  {
+    "code": "111101",
+    "parts": [
+      "GR.EQ.AIR DEFENCE MISSILE LAUNCHER SURFACE-TO-AIR",
+      "GR.EQ.SHORT RANGE"
+    ]
+  },
+  {
+    "code": "111102",
+    "parts": [
+      "GR.EQ.AIR DEFENCE MISSILE LAUNCHER SURFACE-TO-AIR",
+      "GR.EQ.SHORT RANGE",
+      "GR.EQ.AIR DEFENCE MISSILE LAUNCHER SURFACE-TO-AIR TLAR"
+    ]
+  },
+  {
+    "code": "111103",
+    "parts": [
+      "GR.EQ.AIR DEFENCE MISSILE LAUNCHER SURFACE-TO-AIR",
+      "GR.EQ.SHORT RANGE",
+      "GR.EQ.AIR DEFENCE MISSILE LAUNCHER SURFACE-TO-AIR TELAR"
+    ]
+  },
+  {
+    "code": "111104",
+    "parts": [
+      "GR.EQ.AIR DEFENCE MISSILE LAUNCHER SURFACE-TO-AIR",
+      "GR.EQ.INTERMEDIATE RANGE"
+    ]
+  },
+  {
+    "code": "111105",
+    "parts": [
+      "GR.EQ.AIR DEFENCE MISSILE LAUNCHER SURFACE-TO-AIR",
+      "GR.EQ.INTERMEDIATE RANGE",
+      "GR.EQ.AIR DEFENCE MISSILE LAUNCHER SURFACE-TO-AIR TLAR"
+    ]
+  },
+  {
+    "code": "111106",
+    "parts": [
+      "GR.EQ.AIR DEFENCE MISSILE LAUNCHER SURFACE-TO-AIR",
+      "GR.EQ.INTERMEDIATE RANGE",
+      "GR.EQ.AIR DEFENCE MISSILE LAUNCHER SURFACE-TO-AIR TELAR"
+    ]
+  },
+  {
+    "code": "111107",
+    "parts": [
+      "GR.EQ.AIR DEFENCE MISSILE LAUNCHER SURFACE-TO-AIR",
+      "GR.EQ.LONG RANGE"
+    ]
+  },
+  {
+    "code": "111108",
+    "parts": [
+      "GR.EQ.AIR DEFENCE MISSILE LAUNCHER SURFACE-TO-AIR",
+      "GR.EQ.LONG RANGE",
+      "GR.EQ.AIR DEFENCE MISSILE LAUNCHER SURFACE-TO-AIR TLAR"
+    ]
+  },
+  {
+    "code": "111109",
+    "parts": [
+      "GR.EQ.AIR DEFENCE MISSILE LAUNCHER SURFACE-TO-AIR",
+      "GR.EQ.LONG RANGE",
+      "GR.EQ.AIR DEFENCE MISSILE LAUNCHER SURFACE-TO-AIR TELAR"
+    ]
+  },
+  {
+    "code": "111200",
+    "parts": [
+      "GR.EQ.ANTITANK MISSILE LAUNCHER"
+    ]
+  },
+  {
+    "code": "111201",
+    "parts": [
+      "GR.EQ.ANTITANK MISSILE LAUNCHER",
+      "GR.EQ.SHORT RANGE"
+    ]
+  },
+  {
+    "code": "111202",
+    "parts": [
+      "GR.EQ.ANTITANK MISSILE LAUNCHER",
+      "GR.EQ.INTERMEDIATE RANGE"
+    ]
+  },
+  {
+    "code": "111203",
+    "parts": [
+      "GR.EQ.ANTITANK MISSILE LAUNCHER",
+      "GR.EQ.LONG RANGE"
+    ]
+  },
+  {
+    "code": "111300",
+    "parts": [
+      "GR.EQ.SURFACE-TO-SURFACE MISSILE LAUNCHER"
+    ]
+  },
+  {
+    "code": "111301",
+    "parts": [
+      "GR.EQ.SURFACE-TO-SURFACE MISSILE LAUNCHER",
+      "GR.EQ.SHORT RANGE"
+    ]
+  },
+  {
+    "code": "111302",
+    "parts": [
+      "GR.EQ.SURFACE-TO-SURFACE MISSILE LAUNCHER",
+      "GR.EQ.INTERMEDIATE RANGE"
+    ]
+  },
+  {
+    "code": "111303",
+    "parts": [
+      "GR.EQ.SURFACE-TO-SURFACE MISSILE LAUNCHER",
+      "GR.EQ.LONG RANGE"
+    ]
+  },
+  {
+    "code": "111400",
+    "parts": [
+      "GR.EQ.MORTAR"
+    ]
+  },
+  {
+    "code": "111401",
+    "parts": [
+      "GR.EQ.MORTAR",
+      "GR.EQ.SHORT RANGE"
+    ]
+  },
+  {
+    "code": "111402",
+    "parts": [
+      "GR.EQ.MORTAR",
+      "GR.EQ.INTERMEDIATE RANGE"
+    ]
+  },
+  {
+    "code": "111403",
+    "parts": [
+      "GR.EQ.MORTAR",
+      "GR.EQ.LONG RANGE"
+    ]
+  },
+  {
+    "code": "111500",
+    "parts": [
+      "GR.EQ.SINGLE ROCKET LAUNCHER"
+    ]
+  },
+  {
+    "code": "111501",
+    "parts": [
+      "GR.EQ.SINGLE ROCKET LAUNCHER",
+      "GR.EQ.SHORT RANGE"
+    ]
+  },
+  {
+    "code": "111502",
+    "parts": [
+      "GR.EQ.SINGLE ROCKET LAUNCHER",
+      "GR.EQ.INTERMEDIATE RANGE"
+    ]
+  },
+  {
+    "code": "111503",
+    "parts": [
+      "GR.EQ.SINGLE ROCKET LAUNCHER",
+      "GR.EQ.LONG RANGE"
+    ]
+  },
+  {
+    "code": "111600",
+    "parts": [
+      "GR.EQ.MULTIPLE ROCKET LAUNCHER"
+    ]
+  },
+  {
+    "code": "111601",
+    "parts": [
+      "GR.EQ.MULTIPLE ROCKET LAUNCHER",
+      "GR.EQ.SHORT RANGE"
+    ]
+  },
+  {
+    "code": "111602",
+    "parts": [
+      "GR.EQ.MULTIPLE ROCKET LAUNCHER",
+      "GR.EQ.INTERMEDIATE RANGE"
+    ]
+  },
+  {
+    "code": "111603",
+    "parts": [
+      "GR.EQ.MULTIPLE ROCKET LAUNCHER",
+      "GR.EQ.LONG RANGE"
+    ]
+  },
+  {
+    "code": "111700",
+    "parts": [
+      "GR.EQ.ANTITANK ROCKET LAUNCHER"
+    ]
+  },
+  {
+    "code": "111701",
+    "parts": [
+      "GR.EQ.ANTITANK ROCKET LAUNCHER",
+      "GR.EQ.SHORT RANGE"
+    ]
+  },
+  {
+    "code": "111702",
+    "parts": [
+      "GR.EQ.ANTITANK ROCKET LAUNCHER",
+      "GR.EQ.INTERMEDIATE RANGE"
+    ]
+  },
+  {
+    "code": "111703",
+    "parts": [
+      "GR.EQ.ANTITANK ROCKET LAUNCHER",
+      "GR.EQ.LONG RANGE"
+    ]
+  },
+  {
+    "code": "111800",
+    "parts": [
+      "GR.EQ.NON-LETHAL WEAPON"
+    ]
+  },
+  {
+    "code": "111900",
+    "parts": [
+      "GR.EQ.TASER"
+    ]
+  },
+  {
+    "code": "112000",
+    "parts": [
+      "GR.EQ.WATER CANNON"
+    ]
+  },
+  {
+    "code": "120100",
+    "parts": [
+      "GR.EQ.ARMOURED VEHICLE"
+    ]
+  },
+  {
+    "code": "120101",
+    "parts": [
+      "GR.EQ.ARMOURED FIGHTING VEHICLE"
+    ]
+  },
+  {
+    "code": "120102",
+    "parts": [
+      "GR.EQ.ARMOURED FIGHTING VEHICLE (AFV) COMMAND AND CONTROL"
+    ]
+  },
+  {
+    "code": "120103",
+    "parts": [
+      "GR.EQ.ARMOURED PERSONNEL CARRIER"
+    ]
+  },
+  {
+    "code": "120104",
+    "parts": [
+      "GR.EQ.ARMOURED PERSONNEL CARRIER",
+      "GR.EQ.MEDICAL EVACUATION"
+    ]
+  },
+  {
+    "code": "120105",
+    "parts": [
+      "GR.IC.ARMOUR"
+    ]
+  },
+  {
+    "code": "120106",
+    "parts": [
+      "GR.IC.ARMOUR",
+      "GR.EQ.TANK RECOVERY VEHICLE"
+    ]
+  },
+  {
+    "code": "120107",
+    "parts": [
+      "GR.IC.ARMOUR",
+      "GR.EQ.MEDICAL EVACUATION"
+    ]
+  },
+  {
+    "code": "120108",
+    "parts": [
+      "GR.EQ.ARMOURED PERSONNEL CARRIER",
+      "GR.EQ.TANK RECOVERY VEHICLE"
+    ]
+  },
+  {
+    "code": "120109",
+    "parts": [
+      "GR.EQ.ARMOURED PERSONNEL CARRIER",
+      "GR.EQ.COMBAT SERVICE SUPPORT VEHICLE"
+    ]
+  },
+  {
+    "code": "120110",
+    "parts": [
+      "GR.EQ.ARMOURED FIGHTING VEHICLE",
+      "GR.EQ.CROSS-COUNTRY"
+    ]
+  },
+  {
+    "code": "120111",
+    "parts": [
+      "GR.EQ.ARMOURED FIGHTING VEHICLE",
+      "GR.EQ.CROSS-COUNTRY",
+      "GR.IC.FF.RECONNAISSANCE EQUPIMENT"
+    ]
+  },
+  {
+    "code": "120200",
+    "parts": [
+      "GR.EQ.TANK"
+    ]
+  },
+  {
+    "code": "120201",
+    "parts": [
+      "GR.EQ.TANK",
+      "GR.EQ.LIGHT TANK"
+    ]
+  },
+  {
+    "code": "120202",
+    "parts": [
+      "GR.EQ.TANK",
+      "GR.EQ.MEDIUM TANK"
+    ]
+  },
+  {
+    "code": "120203",
+    "parts": [
+      "GR.EQ.TANK",
+      "GR.EQ.HEAVY TANK"
+    ]
+  },
+  {
+    "code": "120300",
+    "parts": [
+      "GR.EQ.TANK",
+      "GR.EQ.TANK RECOVERY VEHICLE"
+    ]
+  },
+  {
+    "code": "120301",
+    "parts": [
+      "GR.EQ.TANK",
+      "GR.EQ.LIGHT TANK",
+      "GR.EQ.TANK RECOVERY VEHICLE"
+    ]
+  },
+  {
+    "code": "120302",
+    "parts": [
+      "GR.EQ.TANK",
+      "GR.EQ.MEDIUM TANK",
+      "GR.EQ.TANK RECOVERY VEHICLE"
+    ]
+  },
+  {
+    "code": "120303",
+    "parts": [
+      "GR.EQ.TANK",
+      "GR.EQ.HEAVY TANK",
+      "GR.EQ.TANK RECOVERY VEHICLE"
+    ]
+  },
+  {
+    "code": "130000",
+    "parts": [
+      "GR.IC.ENGINEER"
+    ]
+  },
+  {
+    "code": "130100",
+    "parts": [
+      "GR.IN.IC.BRIDGE"
+    ]
+  },
+  {
+    "code": "130200",
+    "parts": [
+      "GR.EQ.UTILITY VEHICLE",
+      "GR.IN.IC.BRIDGE"
+    ]
+  },
+  {
+    "code": "130300",
+    "parts": [
+      "GR.IN.IC.BRIDGE",
+      "GR.EQ.FIXED BRIDGE"
+    ]
+  },
+  {
+    "code": "130400",
+    "parts": [
+      "GR.IN.IC.BRIDGE",
+      "GR.M2.RIVERINE"
+    ]
+  },
+  {
+    "code": "130500",
+    "parts": [
+      "GR.IN.IC.BRIDGE",
+      "GR.EQ.FOLDING GIRDER BRIDGE"
+    ]
+  },
+  {
+    "code": "130600",
+    "parts": [
+      "GR.IN.IC.BRIDGE",
+      "GR.EQ.HOLLOW DECK BRIDGE"
+    ]
+  },
+  {
+    "code": "130700",
+    "parts": [
+      "GR.IC.DRILLING"
+    ]
+  },
+  {
+    "code": "130701",
+    "parts": [
+      "GR.IC.DRILLING",
+      "GR.EQ.UTILITY VEHICLE"
+    ]
+  },
+  {
+    "code": "130800",
+    "parts": [
+      "GR.EQ.EARTHMOVER"
+    ]
+  },
+  {
+    "code": "130801",
+    "parts": [
+      "GR.EQ.MULTIFUNCTIONAL EARTHMOVER/DIGGER"
+    ]
+  },
+  {
+    "code": "130900",
+    "parts": [
+      "GR.EQ.MINE CLEARING EQUIPMENT"
+    ]
+  },
+  {
+    "code": "130901",
+    "parts": [
+      "GR.EQ.MINE CLEARING EQUIPMENT",
+      "GR.EQ.LIMITED CROSS-COUNTRY"
+    ]
+  },
+  {
+    "code": "130902",
+    "parts": [
+      "GR.EQ.MINE CLEARING EQUIPMENT",
+      "GR.EQ.TANK"
+    ]
+  },
+  {
+    "code": "130903",
+    "parts": [
+      "GR.EQ.ASSAULT BREACHER VEHICLE (ABV) WITH COMBAT DOZER BLADE"
+    ]
+  },
+  {
+    "code": "130904",
+    "parts": [
+      "GR.M1.ROUTE, RECONNAISSANCE, AND CLEARANCE",
+      "GR.IC.ENGINEER UTILITY VEHICLE",
+      "GR.M2.MEDIUM"
+    ]
+  },
+  {
+    "code": "130905",
+    "parts": [
+      "GR.M1.ROUTE, RECONNAISSANCE, AND CLEARANCE",
+      "GR.IC.ENGINEER UTILITY VEHICLE",
+      "GR.M2.HEAVY"
+    ]
+  },
+  {
+    "code": "131000",
+    "parts": [
+      "GR.IC.MINE LAYING"
+    ]
+  },
+  {
+    "code": "131001",
+    "parts": [
+      "GR.EQ.UTILITY VEHICLE",
+      "GR.IC.MINE LAYING"
+    ]
+  },
+  {
+    "code": "131002",
+    "parts": [
+      "GR.EQ.ARMOURED PERSONNEL CARRIER",
+      "GR.EQ.ARMORED CARRIER WITH VOLCANO"
+    ]
+  },
+  {
+    "code": "131003",
+    "parts": [
+      "GR.EQ.UTILITY VEHICLE",
+      "GR.EQ.LIMITED CROSS-COUNTRY",
+      "GR.EQ.ARMORED CARRIER WITH VOLCANO"
+    ]
+  },
+  {
+    "code": "131100",
+    "parts": [
+      "GR.EQ.DOZER"
+    ]
+  },
+  {
+    "code": "131101",
+    "parts": [
+      "GR.EQ.DOZER ARMORED"
+    ]
+  },
+  {
+    "code": "131200",
+    "parts": [
+      "GR.EQ.ARMOURED PERSONNEL CARRIER",
+      "GR.IC.ENGINEER"
+    ]
+  },
+  {
+    "code": "131300",
+    "parts": [
+      "GR.EQ.ARMOURED PERSONNEL CARRIER",
+      "GR.IC.ENGINEER",
+      "GR.EQ.ARMOURED PERSONNEL CARRIER ENGINEER RECON VEHICLE"
+    ]
+  },
+  {
+    "code": "131400",
+    "parts": [
+      "GR.EQ.UTILITY VEHICLE",
+      "GR.EQ.LIMITED CROSS-COUNTRY",
+      "GR.EQ.UTILITY VEHICLE BACKHOE"
+    ]
+  },
+  {
+    "code": "131500",
+    "parts": [
+      "GR.EQ.UTILITY VEHICLE",
+      "GR.EQ.LIMITED CROSS-COUNTRY",
+      "GR.IC.ENGINEER"
+    ]
+  },
+  {
+    "code": "131600",
+    "parts": [
+      "GR.EQ.UTILITY VEHICLE",
+      "GR.EQ.CROSS-COUNTRY",
+      "GR.EQ.UTILITY VEHICLE FERRY TRANSPORTER"
+    ]
+  },
+  {
+    "code": "140100",
+    "parts": [
+      "GR.EQ.UTILITY VEHICLE"
+    ]
+  },
+  {
+    "code": "140200",
+    "parts": [
+      "GR.EQ.UTILITY VEHICLE",
+      "GR.EQ.MEDICAL VEHICLE"
+    ]
+  },
+  {
+    "code": "140300",
+    "parts": [
+      "GR.EQ.UTILITY VEHICLE",
+      "GR.EQ.MEDICAL EVACUATION"
+    ]
+  },
+  {
+    "code": "140400",
+    "parts": [
+      "GR.EQ.UTILITY VEHICLE",
+      "GR.EQ.MOBILE EMERGENCY PHYSICIAN"
+    ]
+  },
+  {
+    "code": "140500",
+    "parts": [
+      "GR.EQ.BUS"
+    ]
+  },
+  {
+    "code": "140600",
+    "parts": [
+      "GR.EQ.SEMI-TRAILER TRUCK"
+    ]
+  },
+  {
+    "code": "140601",
+    "parts": [
+      "GR.EQ.SEMI-TRAILER TRUCK",
+      "GR.EQ.UTILITY VEHICLE LIGHT"
+    ]
+  },
+  {
+    "code": "140602",
+    "parts": [
+      "GR.EQ.SEMI-TRAILER TRUCK",
+      "GR.EQ.UTILITY VEHICLE MEDIUM"
+    ]
+  },
+  {
+    "code": "140603",
+    "parts": [
+      "GR.EQ.SEMI-TRAILER TRUCK",
+      "GR.EQ.UTILITY VEHICLE HEAVY"
+    ]
+  },
+  {
+    "code": "140700",
+    "parts": [
+      "GR.EQ.UTILITY VEHICLE",
+      "GR.EQ.LIMITED CROSS-COUNTRY"
+    ]
+  },
+  {
+    "code": "140800",
+    "parts": [
+      "GR.EQ.UTILITY VEHICLE",
+      "GR.EQ.CROSS-COUNTRY"
+    ]
+  },
+  {
+    "code": "140900",
+    "parts": [
+      "GR.EQ.UTILITY VEHICLE",
+      "GR.IC.FF.CLASS III"
+    ]
+  },
+  {
+    "code": "141000",
+    "parts": [
+      "GR.EQ.UTILITY VEHICLE",
+      "GR.IC.WATER"
+    ]
+  },
+  {
+    "code": "141100",
+    "parts": [
+      "GR.EQ.WATER VEHICLE",
+      "GR.EQ.LIMITED CROSS-COUNTRY"
+    ]
+  },
+  {
+    "code": "141200",
+    "parts": [
+      "GR.EQ.UTILITY VEHICLE",
+      "GR.EQ.UTILITY VEHICLE.TOW TRUCK"
+    ]
+  },
+  {
+    "code": "141201",
+    "parts": [
+      "GR.EQ.UTILITY VEHICLE",
+      "GR.EQ.UTILITY VEHICLE.TOW TRUCK",
+      "GR.EQ.UTILITY VEHICLE.TOW TRUCK.LIGHT"
+    ]
+  },
+  {
+    "code": "141202",
+    "parts": [
+      "GR.EQ.UTILITY VEHICLE",
+      "GR.EQ.UTILITY VEHICLE.TOW TRUCK",
+      "GR.EQ.UTILITY VEHICLE.TOW TRUCK.HEAVY"
+    ]
+  },
+  {
+    "code": "150100",
+    "parts": [
+      "GR.EQ.TRAIN LOCOMOTIVE"
+    ]
+  },
+  {
+    "code": "150200",
+    "parts": [
+      "GR.EQ.RAILCAR"
+    ]
+  },
+  {
+    "code": "160100",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.AUTOMOBILE"
+    ]
+  },
+  {
+    "code": "160101",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.AUTOMOBILE",
+      "GR.EQ.CIVILIAN VEHICLE.LIGHT"
+    ]
+  },
+  {
+    "code": "160102",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.AUTOMOBILE",
+      "GR.EQ.CIVILIAN VEHICLE.MEDIUM"
+    ]
+  },
+  {
+    "code": "160103",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.AUTOMOBILE",
+      "GR.EQ.CIVILIAN VEHICLE.HEAVY"
+    ]
+  },
+  {
+    "code": "160200",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.OPEN-BED TRUCK"
+    ]
+  },
+  {
+    "code": "160201",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.OPEN-BED TRUCK",
+      "GR.EQ.CIVILIAN VEHICLE.LIGHT"
+    ]
+  },
+  {
+    "code": "160202",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.OPEN-BED TRUCK",
+      "GR.EQ.CIVILIAN VEHICLE.MEDIUM"
+    ]
+  },
+  {
+    "code": "160203",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.OPEN-BED TRUCK",
+      "GR.EQ.CIVILIAN VEHICLE.HEAVY"
+    ]
+  },
+  {
+    "code": "160300",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.MULTIPLE PASSENGER VEHICLE"
+    ]
+  },
+  {
+    "code": "160301",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.MULTIPLE PASSENGER VEHICLE",
+      "GR.EQ.CIVILIAN VEHICLE.LIGHT"
+    ]
+  },
+  {
+    "code": "160302",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.MULTIPLE PASSENGER VEHICLE",
+      "GR.EQ.CIVILIAN VEHICLE.MEDIUM"
+    ]
+  },
+  {
+    "code": "160303",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.MULTIPLE PASSENGER VEHICLE",
+      "GR.EQ.CIVILIAN VEHICLE.HEAVY"
+    ]
+  },
+  {
+    "code": "160400",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.UTILITY VEHICLE"
+    ]
+  },
+  {
+    "code": "160401",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.UTILITY VEHICLE",
+      "GR.EQ.CIVILIAN VEHICLE.LIGHT"
+    ]
+  },
+  {
+    "code": "160402",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.UTILITY VEHICLE",
+      "GR.EQ.CIVILIAN VEHICLE.MEDIUM"
+    ]
+  },
+  {
+    "code": "160403",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.UTILITY VEHICLE",
+      "GR.EQ.CIVILIAN VEHICLE.HEAVY"
+    ]
+  },
+  {
+    "code": "160500",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.JEEP TYPE VEHICLE"
+    ]
+  },
+  {
+    "code": "160501",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.JEEP TYPE VEHICLE",
+      "GR.EQ.CIVILIAN VEHICLE.LIGHT"
+    ]
+  },
+  {
+    "code": "160502",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.JEEP TYPE VEHICLE",
+      "GR.EQ.CIVILIAN VEHICLE.MEDIUM"
+    ]
+  },
+  {
+    "code": "160503",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.JEEP TYPE VEHICLE",
+      "GR.EQ.CIVILIAN VEHICLE.HEAVY"
+    ]
+  },
+  {
+    "code": "160600",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.UTILITY VEHICLE",
+      "GR.EQ.CIVILIAN VEHICLE.TRAILER"
+    ]
+  },
+  {
+    "code": "160601",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.UTILITY VEHICLE",
+      "GR.EQ.CIVILIAN VEHICLE.LIGHT",
+      "GR.EQ.CIVILIAN VEHICLE.TRAILER"
+    ]
+  },
+  {
+    "code": "160602",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.UTILITY VEHICLE",
+      "GR.EQ.CIVILIAN VEHICLE.MEDIUM",
+      "GR.EQ.CIVILIAN VEHICLE.TRAILER"
+    ]
+  },
+  {
+    "code": "160603",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.UTILITY VEHICLE",
+      "GR.EQ.CIVILIAN VEHICLE.HEAVY",
+      "GR.EQ.CIVILIAN VEHICLE.TRAILER"
+    ]
+  },
+  {
+    "code": "160700",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.OPEN-BED TRUCK",
+      "GR.EQ.CIVILIAN VEHICLE.TRAILER"
+    ]
+  },
+  {
+    "code": "160701",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.OPEN-BED TRUCK",
+      "GR.EQ.CIVILIAN VEHICLE.LIGHT",
+      "GR.EQ.CIVILIAN VEHICLE.TRAILER"
+    ]
+  },
+  {
+    "code": "160702",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.OPEN-BED TRUCK",
+      "GR.EQ.CIVILIAN VEHICLE.MEDIUM",
+      "GR.EQ.CIVILIAN VEHICLE.TRAILER"
+    ]
+  },
+  {
+    "code": "160703",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.OPEN-BED TRUCK",
+      "GR.EQ.CIVILIAN VEHICLE.HEAVY",
+      "GR.EQ.CIVILIAN VEHICLE.TRAILER"
+    ]
+  },
+  {
+    "code": "160800",
+    "parts": [
+      "ST.IC.KNOWN INSURGENT VEHICLE"
+    ]
+  },
+  {
+    "code": "160900",
+    "parts": [
+      "ST.IC.KNOWN INSURGENT VEHICLE",
+      "ST.M1.DRUG"
+    ]
+  },
+  {
+    "code": "170000",
+    "parts": [
+      "GR.IC.FF.LAW ENFORCEMENT"
+    ]
+  },
+  {
+    "code": "170200",
+    "parts": [
+      "GR.IC.FF.BORDER PATROL"
+    ]
+  },
+  {
+    "code": "170300",
+    "parts": [
+      "GR.IC.FF.CUSTOMS SERVICE"
+    ]
+  },
+  {
+    "code": "170400",
+    "parts": [
+      "GR.IC.DRUG ENFORCEMENT AGENCY (DEA)"
+    ]
+  },
+  {
+    "code": "170500",
+    "parts": [
+      "GR.IC.FF.DEPARTMENT OF JUSTICE (DOJ)"
+    ]
+  },
+  {
+    "code": "170600",
+    "parts": [
+      "GR.IC.FEDERAL BUREAU OF INVESTIGATION (FBI)"
+    ]
+  },
+  {
+    "code": "170700",
+    "parts": [
+      "GR.IC.LAW ENFORCEMENT"
+    ]
+  },
+  {
+    "code": "170800",
+    "parts": [
+      "GR.IC.UNITED STATES SECRET SERVICE(TREAS) (USSS)"
+    ]
+  },
+  {
+    "code": "170900",
+    "parts": [
+      "GR.IC.TRANSPORTATION SECURITY AGENCY (TSA)"
+    ]
+  },
+  {
+    "code": "171000",
+    "parts": [
+      "GR.IC.LAW ENFORCEMENT VESSEL"
+    ]
+  },
+  {
+    "code": "171100",
+    "parts": [
+      "GR.IC.FF.US MARSHALS SERVICE"
+    ]
+  },
+  {
+    "code": "180000",
+    "parts": [
+      "GR.EQ.PACK ANIMAL"
+    ]
+  },
+  {
+    "code": "190000",
+    "parts": [
+      "GR.EQ.MISSILE SUPPORT"
+    ]
+  },
+  {
+    "code": "190100",
+    "parts": [
+      "GR.EQ.MISSILE TRANSLOADER"
+    ]
+  },
+  {
+    "code": "190200",
+    "parts": [
+      "GR.EQ.MISSILE TRANSPORTER"
+    ]
+  },
+  {
+    "code": "190300",
+    "parts": [
+      "GR.EQ.MISSILE CRANE/LOADING DEVICE"
+    ]
+  },
+  {
+    "code": "190400",
+    "parts": [
+      "GR.EQ.MISSILE PROPELLANT TRANSPORTER"
+    ]
+  },
+  {
+    "code": "190500",
+    "parts": [
+      "GR.EQ.MISSILE WARHEAD TRANSPORTER"
+    ]
+  },
+  {
+    "code": "200100",
+    "parts": [
+      "GR.IC.FF.BROADCAST TRANSMITTER ANTENNA"
+    ]
+  },
+  {
+    "code": "200200",
+    "parts": [
+      "ST.IC.BOMB"
+    ]
+  },
+  {
+    "code": "200300",
+    "parts": [
+      "ST.IC.BOOBY TRAP"
+    ]
+  },
+  {
+    "code": "200400",
+    "parts": [
+      "GR.EQ.CBRN EQUIPMENT"
+    ]
+  },
+  {
+    "code": "200500",
+    "parts": [
+      "GR.EQ.COMPUTER SYSTEM"
+    ]
+  },
+  {
+    "code": "200600",
+    "parts": [
+      "GR.EQ.COMMAND LAUNCH EQUIPMENT (CLE)"
+    ]
+  },
+  {
+    "code": "200700",
+    "parts": [
+      "GR.EQ.GENERATOR SET"
+    ]
+  },
+  {
+    "code": "201000",
+    "parts": [
+      "GR.EQ.LASER"
+    ]
+  },
+  {
+    "code": "201100",
+    "parts": [
+      "GR.EQ.PSYCHOLOGICAL OPERATIONS EQUIPMENT"
+    ]
+  },
+  {
+    "code": "201200",
+    "parts": [
+      "GR.IC.SUSTAINMENT"
+    ]
+  },
+  {
+    "code": "201300",
+    "parts": [
+      "GR.EQ.TENT"
+    ]
+  },
+  {
+    "code": "201301",
+    "parts": [
+      "GR.EQ.TENT CIVILIAN"
+    ]
+  },
+  {
+    "code": "201302",
+    "parts": [
+      "GR.EQ.TENT MILITARY"
+    ]
+  },
+  {
+    "code": "201400",
+    "parts": [
+      "GR.EQ.UNIT DEPLOYMENT SHIPMENTS"
+    ]
+  },
+  {
+    "code": "201500",
+    "parts": [
+      "GR.IC.EMERGENCY MEDICAL OPERATION"
+    ]
+  },
+  {
+    "code": "201501",
+    "parts": [
+      "GR.IC.MEDICAL EVACUATION HELICOPTER"
+    ]
+  },
+  {
+    "code": "210100",
+    "parts": [
+      "GR.EQ.LAND MINE"
+    ]
+  },
+  {
+    "code": "210200",
+    "parts": [
+      "GR.EQ.ANTIPERSONNEL LAND MINE"
+    ]
+  },
+  {
+    "code": "210300",
+    "parts": [
+      "GR.EQ.ANTITANK MINE"
+    ]
+  },
+  {
+    "code": "210400",
+    "parts": [
+      "GR.EQ.IMPROVISED EXPLOSIVE DEVICE"
+    ]
+  },
+  {
+    "code": "210500",
+    "parts": [
+      "GR.EQ.ANTIPERSONNEL LAND MINE LESS THAN LETHAL"
+    ]
+  },
+  {
+    "code": "220100",
+    "parts": [
+      "GR.EQ.SENSOR"
+    ]
+  },
+  {
+    "code": "220200",
+    "parts": [
+      "GR.EQ.SENSOR EMPLACED"
+    ]
+  },
+  {
+    "code": "220300",
+    "parts": [
+      "GR.IC.RADAR"
+    ]
+  },
+  {
+    "code": "230000",
+    "parts": [
+      "GR.IC.FF.EMERGENCY OPERATION"
+    ]
+  },
+  {
+    "code": "230100",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.UTILITY VEHICLE",
+      "GR.M1.MEDEVAC"
+    ]
+  },
+  {
+    "code": "230200",
+    "parts": [
+      "GR.IC.FIRE PROTECTION"
+    ]
+  },
+  {
+    "code": "240000",
+    "parts": [
+      "GR.IC.MANUAL TRACK"
+    ]
+  },
+  {
+    "code": "250000",
+    "parts": [
+      "GR.IC.AVIATION ROTARY WING"
+    ]
+  }
+]

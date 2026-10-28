@@ -1,0 +1,772 @@
+[
+  {
+    "code": "110000",
+    "parts": [
+      "GR.IC.MILITARY"
+    ]
+  },
+  {
+    "code": "110100",
+    "parts": [
+      "GR.IN.IC.AIRCRAFT PRODUCTION & ASSEMBLY"
+    ]
+  },
+  {
+    "code": "110200",
+    "parts": [
+      "GR.IC.FF.CLASS V"
+    ]
+  },
+  {
+    "code": "110300",
+    "parts": [
+      "GR.IC.FF.CLASS V",
+      "GR.IC.FF.SUPPLY"
+    ]
+  },
+  {
+    "code": "110400",
+    "parts": [
+      "GR.EQ.TANK"
+    ]
+  },
+  {
+    "code": "110500",
+    "parts": [
+      "ST.IC.BLACK LIST LOCATION"
+    ]
+  },
+  {
+    "code": "110600",
+    "parts": [
+      "GR.IC.CBRN"
+    ]
+  },
+  {
+    "code": "110700",
+    "parts": [
+      "GR.EQ.DOZER"
+    ]
+  },
+  {
+    "code": "110701",
+    "parts": [
+      "GR.IN.IC.BRIDGE"
+    ]
+  },
+  {
+    "code": "110800",
+    "parts": [
+      "GR.IC.EQUIPMENT MANUFACTURE"
+    ]
+  },
+  {
+    "code": "110900",
+    "parts": [
+      "GR.I.GOVERNMENT"
+    ]
+  },
+  {
+    "code": "111000",
+    "parts": [
+      "ST.IC.GRAY LIST LOCATION"
+    ]
+  },
+  {
+    "code": "111100",
+    "parts": [
+      "ST.IC.MASS GRAVE LOCATION"
+    ]
+  },
+  {
+    "code": "111200",
+    "parts": [
+      "GR.IN.IC.MILITARY/CIVILIAN.MATERIEL",
+      "GR.IC.FF.SUPPLY"
+    ]
+  },
+  {
+    "code": "111300",
+    "parts": [
+      "GR.IN.IC.MINE"
+    ]
+  },
+  {
+    "code": "111400",
+    "parts": [
+      "GR.EQ.MISSILE LAUNCHER"
+    ]
+  },
+  {
+    "code": "111500",
+    "parts": [
+      "AC.IC.RADIOACTIVE MATERIAL"
+    ]
+  },
+  {
+    "code": "111600",
+    "parts": [
+      "GR.IN.IC.MILITARY/CIVILIAN.PRINTED MEDIA"
+    ]
+  },
+  {
+    "code": "111700",
+    "parts": [
+      "ST.IC.SAFE HOUSE"
+    ]
+  },
+  {
+    "code": "111800",
+    "parts": [
+      "ST.IC.WHITE LIST LOCATION"
+    ]
+  },
+  {
+    "code": "111900",
+    "parts": [
+      "GR.EQ.TENT"
+    ]
+  },
+  {
+    "code": "111901",
+    "parts": [
+      "GR.EQ.TENT",
+      "ST.M1.DISPLACED PERSONS, REFUGEES, AND EVACUEES"
+    ]
+  },
+  {
+    "code": "111902",
+    "parts": [
+      "GR.EQ.TENT",
+      "GR.M1.TRAINING CAMP"
+    ]
+  },
+  {
+    "code": "112000",
+    "parts": [
+      "GR.IN.IC.INDUSTRIAL SITE",
+      "GR.IN.IC.WAREHOUSE/STORAGE FACILITY"
+    ]
+  },
+  {
+    "code": "112001",
+    "parts": [
+      "GR.IC.GRENADE"
+    ]
+  },
+  {
+    "code": "112100",
+    "parts": [
+      "GR.IC.FF.LAW ENFORCEMENT"
+    ]
+  },
+  {
+    "code": "112102",
+    "parts": [
+      "GR.IC.FF.BORDER PATROL"
+    ]
+  },
+  {
+    "code": "112103",
+    "parts": [
+      "GR.IC.FF.CUSTOMS SERVICE"
+    ]
+  },
+  {
+    "code": "112104",
+    "parts": [
+      "GR.IC.DRUG ENFORCEMENT AGENCY (DEA)"
+    ]
+  },
+  {
+    "code": "112105",
+    "parts": [
+      "GR.IC.FF.DEPARTMENT OF JUSTICE (DOJ)"
+    ]
+  },
+  {
+    "code": "112106",
+    "parts": [
+      "GR.IC.FEDERAL BUREAU OF INVESTIGATION (FBI)"
+    ]
+  },
+  {
+    "code": "112107",
+    "parts": [
+      "GR.IC.LAW ENFORCEMENT"
+    ]
+  },
+  {
+    "code": "112108",
+    "parts": [
+      "GR.IC.FF.PRISON"
+    ]
+  },
+  {
+    "code": "112109",
+    "parts": [
+      "GR.IC.UNITED STATES SECRET SERVICE(TREAS) (USSS)"
+    ]
+  },
+  {
+    "code": "112110",
+    "parts": [
+      "GR.IC.TRANSPORTATION SECURITY AGENCY (TSA)"
+    ]
+  },
+  {
+    "code": "112111",
+    "parts": [
+      "GR.IC.LAW ENFORCEMENT VESSEL"
+    ]
+  },
+  {
+    "code": "112112",
+    "parts": [
+      "GR.IC.FF.US MARSHALS SERVICE"
+    ]
+  },
+  {
+    "code": "112200",
+    "parts": [
+      "GR.IC.FF.EMERGENCY OPERATION"
+    ]
+  },
+  {
+    "code": "112201",
+    "parts": [
+      "GR.IC.FIRE PROTECTION"
+    ]
+  },
+  {
+    "code": "112202",
+    "parts": [
+      "GR.IC.EMERGENCY MEDICAL OPERATION"
+    ]
+  },
+  {
+    "code": "112300",
+    "parts": [
+      "GR.IN.MC.HOME"
+    ]
+  },
+  {
+    "code": "120100",
+    "parts": [
+      "GR.IN.IC.AGRICULTURE AND FOOD INFRASTRUCTURE"
+    ]
+  },
+  {
+    "code": "120101",
+    "parts": [
+      "GR.IN.IC.AGRICULTURAL LABORATORY"
+    ]
+  },
+  {
+    "code": "120102",
+    "parts": [
+      "GR.IN.IC.ANIMAL FEEDLOT"
+    ]
+  },
+  {
+    "code": "120103",
+    "parts": [
+      "ST.IC.FOOD DISTRIBUTION",
+      "AC.M1.COMMERCIAL"
+    ]
+  },
+  {
+    "code": "120104",
+    "parts": [
+      "GR.IN.IC.FARM/RANCH"
+    ]
+  },
+  {
+    "code": "120105",
+    "parts": [
+      "ST.IC.FOOD DISTRIBUTION"
+    ]
+  },
+  {
+    "code": "120106",
+    "parts": [
+      "ST.IC.FOOD DISTRIBUTION",
+      "AC.M1.PRODUCTION"
+    ]
+  },
+  {
+    "code": "120107",
+    "parts": [
+      "ST.IC.FOOD DISTRIBUTION",
+      "AC.M1.RETAIL"
+    ]
+  },
+  {
+    "code": "120108",
+    "parts": [
+      "GR.IN.IC.GRAIN STORAGE"
+    ]
+  },
+  {
+    "code": "120200",
+    "parts": [
+      "AC.IC.BANKING FINANCE AND INSURANCE INFRASTRUCTURE"
+    ]
+  },
+  {
+    "code": "120201",
+    "parts": [
+      "GR.IN.IC.ATM"
+    ]
+  },
+  {
+    "code": "120202",
+    "parts": [
+      "GR.IN.IC.BANK"
+    ]
+  },
+  {
+    "code": "120203",
+    "parts": [
+      "GR.IN.IC.BULLION STORAGE"
+    ]
+  },
+  {
+    "code": "120205",
+    "parts": [
+      "GR.IN.IC.FEDERAL RESERVE BANK"
+    ]
+  },
+  {
+    "code": "120206",
+    "parts": [
+      "GR.IN.IC.FINANCIAL EXCHANGE"
+    ]
+  },
+  {
+    "code": "120207",
+    "parts": [
+      "GR.IN.IC.FINANCIAL SERVICES, OTHER"
+    ]
+  },
+  {
+    "code": "120300",
+    "parts": [
+      "GR.IN.IC.COMMERCIAL INFRASTRUCTURE"
+    ]
+  },
+  {
+    "code": "120301",
+    "parts": [
+      "GR.IN.IC.CHEMICAL PLANT"
+    ]
+  },
+  {
+    "code": "120302",
+    "parts": [
+      "GR.IN.IC.FIREARMS MANUFACTURER"
+    ]
+  },
+  {
+    "code": "120303",
+    "parts": [
+      "GR.IN.IC.FIREARMS RETAILER"
+    ]
+  },
+  {
+    "code": "120304",
+    "parts": [
+      "GR.IN.IC.HAZARDOUS MATERIAL PRODUCTION"
+    ]
+  },
+  {
+    "code": "120305",
+    "parts": [
+      "GR.IN.IC.HAZARDOUS MATERIAL STORAGE"
+    ]
+  },
+  {
+    "code": "120306",
+    "parts": [
+      "GR.IN.IC.INDUSTRIAL SITE"
+    ]
+  },
+  {
+    "code": "120307",
+    "parts": [
+      "GR.IN.IC.LANDFILL"
+    ]
+  },
+  {
+    "code": "120308",
+    "parts": [
+      "GR.IN.IC.PHARMACEUTICAL MANUFACTURER"
+    ]
+  },
+  {
+    "code": "120309",
+    "parts": [
+      "GR.IN.IC.CONTAMINATED HAZARDOUS WASTE SITE"
+    ]
+  },
+  {
+    "code": "120310",
+    "parts": [
+      "GR.IN.IC.TOXIC RELEASE INVENTORY"
+    ]
+  },
+  {
+    "code": "120400",
+    "parts": [
+      "GR.IN.IC.EDUCATIONAL FACILITIES INFRASTRUCTURE"
+    ]
+  },
+  {
+    "code": "120401",
+    "parts": [
+      "GR.IN.IC.COLLEGE/UNIVERSITY"
+    ]
+  },
+  {
+    "code": "120402",
+    "parts": [
+      "GR.IN.IC.SCHOOL"
+    ]
+  },
+  {
+    "code": "120500",
+    "parts": [
+      "GR.IN.IC.ELECTRIC POWER"
+    ]
+  },
+  {
+    "code": "120501",
+    "parts": [
+      "GR.IN.IC.ELECTRIC POWER"
+    ]
+  },
+  {
+    "code": "120502",
+    "parts": [
+      "GR.IN.IC.ELECTRIC POWER",
+      "AC.M1.GENERATION STATION"
+    ]
+  },
+  {
+    "code": "120503",
+    "parts": [
+      "GR.IN.IC.NATURAL GAS FACILITY"
+    ]
+  },
+  {
+    "code": "120504",
+    "parts": [
+      "GR.IC.FF.CLASS III"
+    ]
+  },
+  {
+    "code": "120505",
+    "parts": [
+      "GR.IC.FF.CLASS III"
+    ]
+  },
+  {
+    "code": "120506",
+    "parts": [
+      "GR.IN.IC.PROPANE FACILITY"
+    ]
+  },
+  {
+    "code": "120600",
+    "parts": [
+      "GR.IN.IC.GOVERNMENT SITE INFRASTRUCTURE"
+    ]
+  },
+  {
+    "code": "120701",
+    "parts": [
+      "GR.IC.FF.MEDICAL"
+    ]
+  },
+  {
+    "code": "120702",
+    "parts": [
+      "GR.IC.FF.MEDICAL",
+      "GR.IC.FF.MEDICAL TREATMENT FACILITY"
+    ]
+  },
+  {
+    "code": "120800",
+    "parts": [
+      "GR.IN.IC.MILITARY INFRASTRUCTURE"
+    ]
+  },
+  {
+    "code": "120801",
+    "parts": [
+      "GR.IN.IC.BASE",
+      "AC.M1.MILITARY ARMORY"
+    ]
+  },
+  {
+    "code": "120802",
+    "parts": [
+      "GR.IN.IC.BASE"
+    ]
+  },
+  {
+    "code": "120803",
+    "parts": [
+      "GR.IN.IC.AIRPORT"
+    ]
+  },
+  {
+    "code": "120900",
+    "parts": [
+      "GR.IN.IC.POSTAL SERVICE INFRASTRUCTURE"
+    ]
+  },
+  {
+    "code": "120901",
+    "parts": [
+      "GR.IN.IC.POSTAL DISTRIBUTION CENTER"
+    ]
+  },
+  {
+    "code": "120902",
+    "parts": [
+      "GR.IN.IC.POST OFFICE"
+    ]
+  },
+  {
+    "code": "121000",
+    "parts": [
+      "GR.IN.IC.PUBLIC VENUES INFRASTRUCTURE"
+    ]
+  },
+  {
+    "code": "121001",
+    "parts": [
+      "GR.IN.IC.ENCLOSED FACITLITY (PUBLIC VENUE)"
+    ]
+  },
+  {
+    "code": "121002",
+    "parts": [
+      "GR.IN.IC.OPEN FACILITY (OPEN VENUE)"
+    ]
+  },
+  {
+    "code": "121003",
+    "parts": [
+      "GR.IN.IC.RECREATIONAL AREA"
+    ]
+  },
+  {
+    "code": "121004",
+    "parts": [
+      "GR.IN.IC.RELIGIOUS INSTITUTION"
+    ]
+  },
+  {
+    "code": "121100",
+    "parts": [
+      "GR.IN.IC.SPECIAL NEEDS INFRASTRUCTURE"
+    ]
+  },
+  {
+    "code": "121101",
+    "parts": [
+      "GR.IN.IC.ADULT DAY CARE"
+    ]
+  },
+  {
+    "code": "121102",
+    "parts": [
+      "GR.IN.IC.CHILD DAY CARE"
+    ]
+  },
+  {
+    "code": "121103",
+    "parts": [
+      "GR.IN.IC.ELDER CARE"
+    ]
+  },
+  {
+    "code": "121200",
+    "parts": [
+      "GR.IN.IC.TELECOMMUNICATIONS INFRASTRUCTURE"
+    ]
+  },
+  {
+    "code": "121201",
+    "parts": [
+      "GR.IC.FF.BROADCAST TRANSMITTER ANTENNA"
+    ]
+  },
+  {
+    "code": "121203",
+    "parts": [
+      "GR.IN.IC.TELECOMMUNICATIONS TOWER"
+    ]
+  },
+  {
+    "code": "121300",
+    "parts": [
+      "GR.IC.TRANSPORTATION"
+    ]
+  },
+  {
+    "code": "121301",
+    "parts": [
+      "GR.IC.TRANSPORTATION",
+      "GR.IC.AIRPORT OF DEBARKATION"
+    ]
+  },
+  {
+    "code": "121302",
+    "parts": [
+      "GR.IN.IC.AIR TRAFFIC CONTROL FACILITY"
+    ]
+  },
+  {
+    "code": "121303",
+    "parts": [
+      "GR.EQ.CIVILIAN VEHICLE.MULTIPLE PASSENGER VEHICLE"
+    ]
+  },
+  {
+    "code": "121304",
+    "parts": [
+      "GR.IC.FERRY"
+    ]
+  },
+  {
+    "code": "121305",
+    "parts": [
+      "GR.IN.IC.HELICOPTER LANDING SITE"
+    ]
+  },
+  {
+    "code": "121306",
+    "parts": [
+      "GR.IC.MAINTENANCE"
+    ]
+  },
+  {
+    "code": "121307",
+    "parts": [
+      "GR.IC.RAILHEAD"
+    ]
+  },
+  {
+    "code": "121308",
+    "parts": [
+      "GR.IN.IC.REST STOP"
+    ]
+  },
+  {
+    "code": "121309",
+    "parts": [
+      "GR.IC.TRANSPORTATION",
+      "GR.M1.NAVAL"
+    ]
+  },
+  {
+    "code": "121310",
+    "parts": [
+      "GR.IC.NAVAL",
+      "GR.M1.YARD"
+    ]
+  },
+  {
+    "code": "121311",
+    "parts": [
+      "GR.IN.IC.TOLL FACILITY"
+    ]
+  },
+  {
+    "code": "121312",
+    "parts": [
+      "GR.IN.IC.TRAFFIC INSPECTION FACILITY"
+    ]
+  },
+  {
+    "code": "121313",
+    "parts": [
+      "GR.IN.IC.TUNNEL"
+    ]
+  },
+  {
+    "code": "121400",
+    "parts": [
+      "GR.IC.WATER"
+    ]
+  },
+  {
+    "code": "121401",
+    "parts": [
+      "GR.IN.IC.CONTROL VALVE"
+    ]
+  },
+  {
+    "code": "121402",
+    "parts": [
+      "GR.IN.IC.DAM"
+    ]
+  },
+  {
+    "code": "121403",
+    "parts": [
+      "GR.IN.IC.DISCHARGE OUTFALL"
+    ]
+  },
+  {
+    "code": "121404",
+    "parts": [
+      "GR.IN.IC.GROUND WATER WELL"
+    ]
+  },
+  {
+    "code": "121405",
+    "parts": [
+      "GR.IN.IC.PUMPING STATION"
+    ]
+  },
+  {
+    "code": "121406",
+    "parts": [
+      "GR.IN.IC.RESERVOIR"
+    ]
+  },
+  {
+    "code": "121407",
+    "parts": [
+      "GR.IN.IC.STORAGE TOWER"
+    ]
+  },
+  {
+    "code": "121408",
+    "parts": [
+      "GR.IN.IC.SURFACE WATER INTAKE"
+    ]
+  },
+  {
+    "code": "121409",
+    "parts": [
+      "GR.IN.IC.WASTEWATER TREATMENT FACILITY"
+    ]
+  },
+  {
+    "code": "121410",
+    "parts": [
+      "GR.IC.WATER"
+    ]
+  },
+  {
+    "code": "121411",
+    "parts": [
+      "GR.IC.WATER PURIFICATION"
+    ]
+  }
+]

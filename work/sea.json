@@ -1,0 +1,560 @@
+[
+  {
+    "code": "110000",
+    "parts": [
+      "SE.IC.MILITARY"
+    ]
+  },
+  {
+    "code": "120000",
+    "parts": [
+      "SE.IC.COMBATANT"
+    ]
+  },
+  {
+    "code": "120100",
+    "parts": [
+      "SE.IC.CARRIER"
+    ]
+  },
+  {
+    "code": "120200",
+    "parts": [
+      "SE.IC.SURFACE COMBATANT, LINE"
+    ]
+  },
+  {
+    "code": "120201",
+    "parts": [
+      "SE.IC.BATTLESHIP"
+    ]
+  },
+  {
+    "code": "120202",
+    "parts": [
+      "SE.IC.CRUISER, GUIDED MISSILE"
+    ]
+  },
+  {
+    "code": "120203",
+    "parts": [
+      "SE.IC.DESTROYER"
+    ]
+  },
+  {
+    "code": "120204",
+    "parts": [
+      "SE.IC.FRIGATE"
+    ]
+  },
+  {
+    "code": "120205",
+    "parts": [
+      "SE.IC.CORVETTE"
+    ]
+  },
+  {
+    "code": "120206",
+    "parts": [
+      "SE.IC.LITTORAL COMBATANT SHIP"
+    ]
+  },
+  {
+    "code": "120300",
+    "parts": [
+      "SE.IC.AMPHIBIOUS WARFARE SHIP"
+    ]
+  },
+  {
+    "code": "120301",
+    "parts": [
+      "SE.IC.AMPHIBIOUS FORCE FLAGSHIP"
+    ]
+  },
+  {
+    "code": "120302",
+    "parts": [
+      "SE.IC.AMPHIBIOUS ASSAULT"
+    ]
+  },
+  {
+    "code": "120303",
+    "parts": [
+      "SE.IC.AMPHIBIOUS ASSAULT SHIP, GENERAL"
+    ]
+  },
+  {
+    "code": "120304",
+    "parts": [
+      "SE.IC.AMPHIBIOUS ASSAULT SHIP, MULTI-PURPOSE"
+    ]
+  },
+  {
+    "code": "120305",
+    "parts": [
+      "SE.IC.AMPHIBIOUS ASSAULT SHIP, HELICOPTER"
+    ]
+  },
+  {
+    "code": "120306",
+    "parts": [
+      "SE.IC.AMPHIBIOUS TRANSPORT, DOCK"
+    ]
+  },
+  {
+    "code": "120307",
+    "parts": [
+      "SE.IC.LANDING SHIP"
+    ]
+  },
+  {
+    "code": "120308",
+    "parts": [
+      "SE.IC.LANDING CRAFT"
+    ]
+  },
+  {
+    "code": "120400",
+    "parts": [
+      "SE.IC.MINE WARFARE VESSEL"
+    ]
+  },
+  {
+    "code": "120401",
+    "parts": [
+      "SE.IC.MINELAYER"
+    ]
+  },
+  {
+    "code": "120402",
+    "parts": [
+      "SE.IC.MINESWEEPER"
+    ]
+  },
+  {
+    "code": "120403",
+    "parts": [
+      "SE.IC.MINESWEEPER, DRONE"
+    ]
+  },
+  {
+    "code": "120404",
+    "parts": [
+      "SE.IC.MINEHUNTER"
+    ]
+  },
+  {
+    "code": "120405",
+    "parts": [
+      "SE.IC.MINE COUNTERMEASURES"
+    ]
+  },
+  {
+    "code": "120406",
+    "parts": [
+      "SE.IC.MINE COUNTER MEASURE SUPPORT SHIP"
+    ]
+  },
+  {
+    "code": "120500",
+    "parts": [
+      "SE.IC.PATROL"
+    ]
+  },
+  {
+    "code": "120501",
+    "parts": [
+      "SE.IC.PATROL CRAFT"
+    ]
+  },
+  {
+    "code": "120502",
+    "parts": [
+      "SE.IC.PATROL GUN"
+    ]
+  },
+  {
+    "code": "120600",
+    "parts": [
+      "SE.IC.SEA SURFACE DECOY"
+    ]
+  },
+  {
+    "code": "120700",
+    "parts": [
+      "SE.IC.UNMANNED SURFACE WATER VEHICLE"
+    ]
+  },
+  {
+    "code": "120800",
+    "parts": [
+      "SE.IC.MILITARY SPEEDBOAT"
+    ]
+  },
+  {
+    "code": "120801",
+    "parts": [
+      "SE.IC.MILITARY SPEEDBOAT, RIGID-HULL INFLATABLE BOAT"
+    ]
+  },
+  {
+    "code": "120900",
+    "parts": [
+      "SE.IC.MILITARY JETSKI"
+    ]
+  },
+  {
+    "code": "121000",
+    "parts": [
+      "SE.IC.NAVY TASK ORGANIZATION UNIT"
+    ]
+  },
+  {
+    "code": "121001",
+    "parts": [
+      "SE.IC.NAVY TASK ELEMENT"
+    ]
+  },
+  {
+    "code": "121002",
+    "parts": [
+      "SE.IC.NAVY TASK FORCE"
+    ]
+  },
+  {
+    "code": "121003",
+    "parts": [
+      "SE.IC.NAVY TASK GROUP"
+    ]
+  },
+  {
+    "code": "121004",
+    "parts": [
+      "SE.IC.NAVY TASK UNIT"
+    ]
+  },
+  {
+    "code": "121005",
+    "parts": [
+      "SE.IC.CONVOY"
+    ]
+  },
+  {
+    "code": "121100",
+    "parts": [
+      "SE.IC.RADAR"
+    ]
+  },
+  {
+    "code": "130000",
+    "parts": [
+      "SE.IC.NONCOMBATANT"
+    ]
+  },
+  {
+    "code": "130100",
+    "parts": [
+      "SE.IC.AUXILIARY SHIP"
+    ]
+  },
+  {
+    "code": "130101",
+    "parts": [
+      "SE.IC.AMMUNITION SHIP"
+    ]
+  },
+  {
+    "code": "130102",
+    "parts": [
+      "SE.IC.STORES SHIP"
+    ]
+  },
+  {
+    "code": "130103",
+    "parts": [
+      "SE.IC.AUXILIARY FLAG OR COMMAND SHIP"
+    ]
+  },
+  {
+    "code": "130104",
+    "parts": [
+      "SE.IC.INTELLIGENCE COLLECTOR"
+    ]
+  },
+  {
+    "code": "130105",
+    "parts": [
+      "SE.IC.OCEAN RESEARCH SHIP"
+    ]
+  },
+  {
+    "code": "130106",
+    "parts": [
+      "SE.IC.SURVEY SHIP"
+    ]
+  },
+  {
+    "code": "130107",
+    "parts": [
+      "SE.IC.HOSPITAL SHIP"
+    ]
+  },
+  {
+    "code": "130108",
+    "parts": [
+      "SE.IC.CARGO SHIP"
+    ]
+  },
+  {
+    "code": "130109",
+    "parts": [
+      "SE.IC.COMBAT SUPPORT SHIP, FAST"
+    ]
+  },
+  {
+    "code": "130110",
+    "parts": [
+      "SE.IC.OILER, REPLENISHMENT"
+    ]
+  },
+  {
+    "code": "130111",
+    "parts": [
+      "SE.IC.REPAIR SHIP"
+    ]
+  },
+  {
+    "code": "130112",
+    "parts": [
+      "SE.IC.SUBMARINE TENDER"
+    ]
+  },
+  {
+    "code": "130113",
+    "parts": [
+      "SE.IC.TUG, OCEAN GOING"
+    ]
+  },
+  {
+    "code": "130200",
+    "parts": [
+      "SE.IC.SERVICE CRAFT, YARD, GENERAL"
+    ]
+  },
+  {
+    "code": "130201",
+    "parts": [
+      "SE.IC.BARGE, NOT SELF-PROPELLED"
+    ]
+  },
+  {
+    "code": "130202",
+    "parts": [
+      "SE.IC.BARGE, SELF-PROPELLED"
+    ]
+  },
+  {
+    "code": "130203",
+    "parts": [
+      "SE.IC.TUG, HARBOUR"
+    ]
+  },
+  {
+    "code": "130204",
+    "parts": [
+      "SE.IC.LAUNCH"
+    ]
+  },
+  {
+    "code": "140000",
+    "parts": [
+      "SE.IC.CIVILIAN"
+    ]
+  },
+  {
+    "code": "140100",
+    "parts": [
+      "SE.IC.MERCHANT SHIP, GENERAL"
+    ]
+  },
+  {
+    "code": "140101",
+    "parts": [
+      "SE.IC.CARGO, GENERAL"
+    ]
+  },
+  {
+    "code": "140102",
+    "parts": [
+      "SE.IC.CONTAINER SHIP"
+    ]
+  },
+  {
+    "code": "140103",
+    "parts": [
+      "SE.IC.DREDGE"
+    ]
+  },
+  {
+    "code": "140104",
+    "parts": [
+      "SE.IC.ROLL ON-ROLL OFF"
+    ]
+  },
+  {
+    "code": "140105",
+    "parts": [
+      "SE.IC.FERRY"
+    ]
+  },
+  {
+    "code": "140106",
+    "parts": [
+      "SE.IC.HEAVY LIFT"
+    ]
+  },
+  {
+    "code": "140107",
+    "parts": [
+      "SE.IC.HOVERCRAFT 2525D"
+    ]
+  },
+  {
+    "code": "140108",
+    "parts": [
+      "SE.IC.MERCHANT SHIP, LASH CARRIER (WITH BARGES)"
+    ]
+  },
+  {
+    "code": "140109",
+    "parts": [
+      "SE.IC.OILER/TANKER"
+    ]
+  },
+  {
+    "code": "140110",
+    "parts": [
+      "SE.IC.PASSENGER SHIP"
+    ]
+  },
+  {
+    "code": "140111",
+    "parts": [
+      "SE.IC.TUG, OCEAN GOING CIVILIAN"
+    ]
+  },
+  {
+    "code": "140112",
+    "parts": [
+      "SE.IC.TOW"
+    ]
+  },
+  {
+    "code": "140113",
+    "parts": [
+      "SE.IC.TRANSPORT SHIP, HAZARDOUS MATERIAL"
+    ]
+  },
+  {
+    "code": "140114",
+    "parts": [
+      "SE.IC.JUNK/DHOW"
+    ]
+  },
+  {
+    "code": "140115",
+    "parts": [
+      "SE.IC.BARGE, NOT SELF-PROPELLED CIV"
+    ]
+  },
+  {
+    "code": "140116",
+    "parts": [
+      "SE.IC.HOSPITAL SHIP CIV"
+    ]
+  },
+  {
+    "code": "140200",
+    "parts": [
+      "SE.IC.FISHING VESSEL"
+    ]
+  },
+  {
+    "code": "140201",
+    "parts": [
+      "SE.IC.DRIFTER"
+    ]
+  },
+  {
+    "code": "140202",
+    "parts": [
+      "SE.IC.TRAWLER"
+    ]
+  },
+  {
+    "code": "140203",
+    "parts": [
+      "SE.IC.FISHING VESSEL DREDGE"
+    ]
+  },
+  {
+    "code": "140300",
+    "parts": [
+      "SE.IC.LAW ENFORCEMENT VESSEL"
+    ]
+  },
+  {
+    "code": "140400",
+    "parts": [
+      "SE.IC.LEISURE CRAFT, SAILING BOAT"
+    ]
+  },
+  {
+    "code": "140500",
+    "parts": [
+      "SE.IC.LEISURE CRAFT, MOTORIZED"
+    ]
+  },
+  {
+    "code": "140501",
+    "parts": [
+      "SE.IC.LEISURE CRAFT, MOTORIZED, RIGID-HULL INFLATABLE BOAT"
+    ]
+  },
+  {
+    "code": "140502",
+    "parts": [
+      "SE.IC.LEISURE CRAFT, MOTORIZED, SPEEDBOAT"
+    ]
+  },
+  {
+    "code": "140600",
+    "parts": [
+      "SE.IC.LEISURE CRAFT, JETSKI"
+    ]
+  },
+  {
+    "code": "140700",
+    "parts": [
+      "SE.IC.UNMANNED SURFACE WATER VEHICLE (USV)"
+    ]
+  },
+  {
+    "code": "150000",
+    "parts": [
+      "SE.IC.OWN SHIP"
+    ]
+  },
+  {
+    "code": "160000",
+    "parts": [
+      "SE.IC.FUSED TRACK"
+    ]
+  },
+  {
+    "code": "170000",
+    "parts": [
+      "SE.IC.MANUAL TRACK"
+    ]
+  }
+]

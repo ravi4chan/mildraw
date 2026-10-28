@@ -1,0 +1,1350 @@
+[
+  {
+    "code": "110000",
+    "parts": [
+      "GR.IC.COMMAND AND CONTROL"
+    ]
+  },
+  {
+    "code": "110100",
+    "parts": [
+      "GR.IC.FF.BROADCAST TRANSMITTER ANTENNA"
+    ]
+  },
+  {
+    "code": "110200",
+    "parts": [
+      "GR.IC.CIVIL AFFAIRS"
+    ]
+  },
+  {
+    "code": "110300",
+    "parts": [
+      "GR.IC.CIVIL-MILITARY-COOPERATION"
+    ]
+  },
+  {
+    "code": "110400",
+    "parts": [
+      "GR.IC.INFORMATION OPERATIONS"
+    ]
+  },
+  {
+    "code": "110500",
+    "parts": [
+      "GR.IC.LIAISON"
+    ]
+  },
+  {
+    "code": "110501",
+    "parts": [
+      "GR.IC.LIAISON",
+      "GR.IC.FF.RECONNAISSANCE"
+    ]
+  },
+  {
+    "code": "110600",
+    "parts": [
+      "GR.IC.MILITARY INFORMATION SUPPORT OPERATIONS (MISO)"
+    ]
+  },
+  {
+    "code": "110601",
+    "parts": [
+      "GR.IC.MILITARY INFORMATION SUPPORT OPERATIONS (MISO)",
+      "GR.IC.FF.BROADCAST TRANSMITTER ANTENNA"
+    ]
+  },
+  {
+    "code": "110700",
+    "parts": [
+      "GR.IC.RADIO"
+    ]
+  },
+  {
+    "code": "110800",
+    "parts": [
+      "GR.IC.RADIO RELAY"
+    ]
+  },
+  {
+    "code": "110900",
+    "parts": [
+      "GR.IC.RADIO TELETYPE CENTRE"
+    ]
+  },
+  {
+    "code": "111000",
+    "parts": [
+      "GR.IC.FF.SIGNAL"
+    ]
+  },
+  {
+    "code": "111001",
+    "parts": [
+      "GR.IC.FF.SIGNAL",
+      "GR.IC.RADIO"
+    ]
+  },
+  {
+    "code": "111002",
+    "parts": [
+      "GR.IC.FF.SIGNAL",
+      "GR.IC.RADIO RELAY"
+    ]
+  },
+  {
+    "code": "111003",
+    "parts": [
+      "GR.IC.FF.SIGNAL",
+      "GR.IC.RADIO TELETYPE CENTRE"
+    ]
+  },
+  {
+    "code": "111004",
+    "parts": [
+      "GR.IC.FF.SIGNAL",
+      "GR.I.FF.SATELLITE"
+    ]
+  },
+  {
+    "code": "111005",
+    "parts": [
+      "GR.IC.VIDEO IMAGERY",
+      "GR.IC.FF.SIGNAL"
+    ]
+  },
+  {
+    "code": "111100",
+    "parts": [
+      "GR.I.FF.SATELLITE"
+    ]
+  },
+  {
+    "code": "111200",
+    "parts": [
+      "GR.IC.VIDEO IMAGERY"
+    ]
+  },
+  {
+    "code": "111300",
+    "parts": [
+      "GR.IC.SPACE"
+    ]
+  },
+  {
+    "code": "111400",
+    "parts": [
+      "GR.IC.SPECIAL TROOPS"
+    ]
+  },
+  {
+    "code": "111500",
+    "parts": [
+      "GR.IC.MULTI-DOMAIN"
+    ]
+  },
+  {
+    "code": "120100",
+    "parts": [
+      "GR.IC.FF.AIR ASSAULT WITH ORGANIC LIFT"
+    ]
+  },
+  {
+    "code": "120200",
+    "parts": [
+      "GR.IC.AIR TRAFFIC SERVICES"
+    ]
+  },
+  {
+    "code": "120300",
+    "parts": [
+      "GR.IC.FF.AMPHIBIOUS"
+    ]
+  },
+  {
+    "code": "120400",
+    "parts": [
+      "GR.IC.FF.ANTITANK/ANTIARMOUR"
+    ]
+  },
+  {
+    "code": "120401",
+    "parts": [
+      "GR.IC.ARMOUR",
+      "GR.IC.FF.ANTITANK/ANTIARMOUR"
+    ]
+  },
+  {
+    "code": "120402",
+    "parts": [
+      "GR.IC.FF.ANTITANK/ANTIARMOUR",
+      "GR.IC.FF.MOTORIZED"
+    ]
+  },
+  {
+    "code": "120500",
+    "parts": [
+      "GR.IC.ARMOUR"
+    ]
+  },
+  {
+    "code": "120501",
+    "parts": [
+      "GR.IC.ARMOUR",
+      "GR.IC.FF.RECONNAISSANCE"
+    ]
+  },
+  {
+    "code": "120502",
+    "parts": [
+      "GR.IC.ARMOUR",
+      "GR.IC.FF.AMPHIBIOUS"
+    ]
+  },
+  {
+    "code": "120600",
+    "parts": [
+      "GR.IC.AVIATION ROTARY WING"
+    ]
+  },
+  {
+    "code": "120601",
+    "parts": [
+      "GR.IC.AVIATION ROTARY WING",
+      "GR.IC.FF.RECONNAISSANCE"
+    ]
+  },
+  {
+    "code": "120700",
+    "parts": [
+      "GR.IC.AVIATION COMPOSITE"
+    ]
+  },
+  {
+    "code": "120800",
+    "parts": [
+      "GR.IC.AVIATION FIXED WING"
+    ]
+  },
+  {
+    "code": "120801",
+    "parts": [
+      "GR.IC.AVIATION FIXED WING",
+      "GR.IC.FF.RECONNAISSANCE"
+    ]
+  },
+  {
+    "code": "120900",
+    "parts": [
+      "GR.IC.COMBAT"
+    ]
+  },
+  {
+    "code": "121000",
+    "parts": [
+      "GR.IC.COMBINED ARMS"
+    ]
+  },
+  {
+    "code": "121100",
+    "parts": [
+      "GR.IC.FF.INFANTRY"
+    ]
+  },
+  {
+    "code": "121101",
+    "parts": [
+      "GR.IC.FF.INFANTRY",
+      "GR.IC.FF.AMPHIBIOUS"
+    ]
+  },
+  {
+    "code": "121102",
+    "parts": [
+      "GR.IC.ARMOUR",
+      "GR.IC.FF.INFANTRY"
+    ]
+  },
+  {
+    "code": "121103",
+    "parts": [
+      "GR.IC.FF.INFANTRY",
+      "GR.IC.FF.MAIN GUN SYSTEM"
+    ]
+  },
+  {
+    "code": "121104",
+    "parts": [
+      "GR.IC.FF.INFANTRY",
+      "GR.IC.FF.MOTORIZED"
+    ]
+  },
+  {
+    "code": "121105",
+    "parts": [
+      "GR.IC.ARMOUR",
+      "GR.IC.FF.INFANTRY",
+      "GR.IC.FF.MAIN GUN SYSTEM"
+    ]
+  },
+  {
+    "code": "121106",
+    "parts": [
+      "GR.IC.FF.MAIN GUN SYSTEM"
+    ]
+  },
+  {
+    "code": "121200",
+    "parts": [
+      "GR.IC.OBSERVER/OBSERVATION"
+    ]
+  },
+  {
+    "code": "121300",
+    "parts": [
+      "GR.IC.FF.RECONNAISSANCE"
+    ]
+  },
+  {
+    "code": "121301",
+    "parts": [
+      "GR.IC.FF.RECONNAISSANCE",
+      "GR.IC.SURVEILLANCE"
+    ]
+  },
+  {
+    "code": "121302",
+    "parts": [
+      "GR.IC.FF.RECONNAISSANCE",
+      "GR.IC.FF.AMPHIBIOUS"
+    ]
+  },
+  {
+    "code": "121303",
+    "parts": [
+      "GR.IC.FF.RECONNAISSANCE",
+      "GR.IC.FF.MOTORIZED"
+    ]
+  },
+  {
+    "code": "121400",
+    "parts": [
+      "GR.IC.SEA-AIR-LAND"
+    ]
+  },
+  {
+    "code": "121500",
+    "parts": [
+      "GR.IC.SNIPER"
+    ]
+  },
+  {
+    "code": "121600",
+    "parts": [
+      "GR.IC.SURVEILLANCE"
+    ]
+  },
+  {
+    "code": "121700",
+    "parts": [
+      "GR.IC.SPECIAL FORCES"
+    ]
+  },
+  {
+    "code": "121800",
+    "parts": [
+      "GR.IC.SPECIAL OPERATIONS FORCES"
+    ]
+  },
+  {
+    "code": "121801",
+    "parts": [
+      "GR.IC.FIXED WING MISO"
+    ]
+  },
+  {
+    "code": "121802",
+    "parts": [
+      "GR.IC.SPECIAL OPERATIONS FORCES",
+      "GR.IC.FF.INFANTRY"
+    ]
+  },
+  {
+    "code": "121803",
+    "parts": [
+      "GR.IC.COMBATANT",
+      "GR.M1.SPECIAL OPERATIONS FORCES (SOF)"
+    ]
+  },
+  {
+    "code": "121804",
+    "parts": [
+      "GR.IC.SUBMARINE NUCLEAR PROPULSION",
+      "GR.M1.SPECIAL OPERATIONS FORCES (SOF)"
+    ]
+  },
+  {
+    "code": "121805",
+    "parts": [
+      "SOF.IC.UNDERWATER DEMOLITION TEAM"
+    ]
+  },
+  {
+    "code": "121900",
+    "parts": [
+      "GR.IC.UNMANNED SYSTEMS"
+    ]
+  },
+  {
+    "code": "122000",
+    "parts": [
+      "GR.IC.RANGER"
+    ]
+  },
+  {
+    "code": "130100",
+    "parts": [
+      "GR.IC.FF.AIR DEFENCE"
+    ]
+  },
+  {
+    "code": "130101",
+    "parts": [
+      "GR.IC.FF.AIR DEFENCE",
+      "GR.IC.FF.MAIN GUN SYSTEM"
+    ]
+  },
+  {
+    "code": "130102",
+    "parts": [
+      "GR.IC.FF.AIR DEFENCE",
+      "GR.IC.MISSILE",
+      "GR.IC.AIR DEFENSE MISSILE"
+    ]
+  },
+  {
+    "code": "130103",
+    "parts": [
+      "GR.IC.FF.AIR DEFENCE",
+      "GR.IC.AIR AND MISSILE DEFENSE"
+    ]
+  },
+  {
+    "code": "130200",
+    "parts": [
+      "GR.IC.FIELD ARTILLERY",
+      "GR.IC.FF.RECONNAISSANCE",
+      "GR.IC.AVIATION ROTARY WING",
+      "GR.M1.NAVAL"
+    ]
+  },
+  {
+    "code": "130300",
+    "parts": [
+      "GR.IC.FIELD ARTILLERY"
+    ]
+  },
+  {
+    "code": "130301",
+    "parts": [
+      "GR.IC.FIELD ARTILLERY",
+      "GR.IC.ARMOUR"
+    ]
+  },
+  {
+    "code": "130302",
+    "parts": [
+      "GR.IC.FIELD ARTILLERY",
+      "GR.IC.ARMOUR",
+      "GR.IC.FF.RECONNAISSANCE"
+    ]
+  },
+  {
+    "code": "130303",
+    "parts": [
+      "GR.IC.FIELD ARTILLERY",
+      "GR.IC.FF.RECONNAISSANCE"
+    ]
+  },
+  {
+    "code": "130400",
+    "parts": [
+      "GR.IC.FIELD ARTILLERY OBSERVER"
+    ]
+  },
+  {
+    "code": "130500",
+    "parts": [
+      "GR.IC.JOINT FIRE SUPPORT"
+    ]
+  },
+  {
+    "code": "130600",
+    "parts": [
+      "GR.IC.METEOROLOGICAL"
+    ]
+  },
+  {
+    "code": "130700",
+    "parts": [
+      "GR.IC.MISSILE"
+    ]
+  },
+  {
+    "code": "130800",
+    "parts": [
+      "GR.IC.MORTAR"
+    ]
+  },
+  {
+    "code": "130801",
+    "parts": [
+      "GR.IC.MORTAR",
+      "GR.M2.TRACKED"
+    ]
+  },
+  {
+    "code": "130802",
+    "parts": [
+      "GR.IC.MORTAR",
+      "GR.M2.TRUCK"
+    ]
+  },
+  {
+    "code": "130803",
+    "parts": [
+      "GR.IC.MORTAR",
+      "GR.M2.TOWED"
+    ]
+  },
+  {
+    "code": "130900",
+    "parts": [
+      "GR.IC.SURVEY"
+    ]
+  },
+  {
+    "code": "140100",
+    "parts": [
+      "GR.IC.CBRN"
+    ]
+  },
+  {
+    "code": "140101",
+    "parts": [
+      "GR.IC.CBRN",
+      "GR.IC.ARMOUR"
+    ]
+  },
+  {
+    "code": "140102",
+    "parts": [
+      "GR.IC.CBRN",
+      "GR.IC.FF.MOTORIZED"
+    ]
+  },
+  {
+    "code": "140103",
+    "parts": [
+      "GR.IC.CBRN",
+      "GR.IC.FF.RECONNAISSANCE"
+    ]
+  },
+  {
+    "code": "140104",
+    "parts": [
+      "GR.IC.CBRN",
+      "GR.IC.FF.RECONNAISSANCE",
+      "GR.IC.ARMOUR"
+    ]
+  },
+  {
+    "code": "140105",
+    "parts": [
+      "GR.IC.CBRN",
+      "GR.IC.FF.RECONNAISSANCE",
+      "GR.IC.FF.MOTORIZED"
+    ]
+  },
+  {
+    "code": "140106",
+    "parts": [
+      "GR.IC.CBRN"
+    ]
+  },
+  {
+    "code": "140200",
+    "parts": [
+      "GR.IC.COMBAT SUPPORT (MANOEUVRE ENHANCEMENT)"
+    ]
+  },
+  {
+    "code": "140300",
+    "parts": [
+      "GR.IC.CRIMINAL INVESTIGATION DIVISION"
+    ]
+  },
+  {
+    "code": "140400",
+    "parts": [
+      "GR.IC.DIVER, CIVILIAN"
+    ]
+  },
+  {
+    "code": "140500",
+    "parts": [
+      "GR.IC.DOG"
+    ]
+  },
+  {
+    "code": "140600",
+    "parts": [
+      "GR.IC.DRILLING"
+    ]
+  },
+  {
+    "code": "140700",
+    "parts": [
+      "GR.IC.ENGINEER"
+    ]
+  },
+  {
+    "code": "140701",
+    "parts": [
+      "GR.IC.ENGINEER MECHANIZED"
+    ]
+  },
+  {
+    "code": "140702",
+    "parts": [
+      "GR.IC.ENGINEER",
+      "GR.IC.FF.MOTORIZED"
+    ]
+  },
+  {
+    "code": "140703",
+    "parts": [
+      "GR.IC.ENGINEER",
+      "GR.IC.FF.RECONNAISSANCE"
+    ]
+  },
+  {
+    "code": "140800",
+    "parts": [
+      "GR.IC.EXPLOSIVE ORDNANCE DISPOSAL"
+    ]
+  },
+  {
+    "code": "140900",
+    "parts": [
+      "GR.IC.FIELD CAMP CONSTRUCTION"
+    ]
+  },
+  {
+    "code": "141000",
+    "parts": [
+      "GR.IC.FIRE PROTECTION"
+    ]
+  },
+  {
+    "code": "141100",
+    "parts": [
+      "GR.IC.GEOSPATIAL SUPPORT"
+    ]
+  },
+  {
+    "code": "141200",
+    "parts": [
+      "GR.IC.MILITARY POLICE"
+    ]
+  },
+  {
+    "code": "141300",
+    "parts": [
+      "GR.IC.MINE"
+    ]
+  },
+  {
+    "code": "141400",
+    "parts": [
+      "GR.IC.MINE CLEARING"
+    ]
+  },
+  {
+    "code": "141500",
+    "parts": [
+      "GR.IC.MINE LAUNCHING"
+    ]
+  },
+  {
+    "code": "141600",
+    "parts": [
+      "GR.IC.MINE LAYING"
+    ]
+  },
+  {
+    "code": "141700",
+    "parts": [
+      "GR.IC.SECURITY"
+    ]
+  },
+  {
+    "code": "141701",
+    "parts": [
+      "GR.IC.SECURITY",
+      "GR.IC.ARMOUR"
+    ]
+  },
+  {
+    "code": "141702",
+    "parts": [
+      "GR.IC.SECURITY",
+      "GR.IC.FF.MOTORIZED"
+    ]
+  },
+  {
+    "code": "141800",
+    "parts": [
+      "GR.IC.SEARCH AND RESCUE"
+    ]
+  },
+  {
+    "code": "141801",
+    "parts": [
+      "GR.IC.ISOLATED PERSONNEL"
+    ]
+  },
+  {
+    "code": "141900",
+    "parts": [
+      "GR.IC.SECURITY POLICE (AIR)"
+    ]
+  },
+  {
+    "code": "142000",
+    "parts": [
+      "GR.IC.SHORE PATROL"
+    ]
+  },
+  {
+    "code": "142100",
+    "parts": [
+      "GR.IC.TOPOGRAPHIC"
+    ]
+  },
+  {
+    "code": "142200",
+    "parts": [
+      "GR.IC.AIR AND MISSILE DEFENSE"
+    ]
+  },
+  {
+    "code": "150100",
+    "parts": [
+      "GR.IC.FF.ANALYSIS"
+    ]
+  },
+  {
+    "code": "150200",
+    "parts": [
+      "GR.IC.COUNTER-INTELLIGENCE"
+    ]
+  },
+  {
+    "code": "150300",
+    "parts": [
+      "GR.IC.FF.DIRECTION FINDING"
+    ]
+  },
+  {
+    "code": "150400",
+    "parts": [
+      "GR.IC.ELECTRONIC RANGING"
+    ]
+  },
+  {
+    "code": "150500",
+    "parts": [
+      "GR.IC.ELECTRONIC WARFARE"
+    ]
+  },
+  {
+    "code": "150501",
+    "parts": [
+      "GR.IC.ELECTRONIC WARFARE",
+      "GR.IC.FF.ANALYSIS"
+    ]
+  },
+  {
+    "code": "150502",
+    "parts": [
+      "GR.IC.ELECTRONIC WARFARE",
+      "GR.IC.FF.DIRECTION FINDING"
+    ]
+  },
+  {
+    "code": "150503",
+    "parts": [
+      "GR.IC.ELECTRONIC WARFARE",
+      "GR.IC.FF.INTERCEPT"
+    ]
+  },
+  {
+    "code": "150504",
+    "parts": [
+      "GR.IC.ELECTRONIC WARFARE",
+      "GR.IC.FF.JAMMING"
+    ]
+  },
+  {
+    "code": "150505",
+    "parts": [
+      "GR.IC.ELECTRONIC WARFARE",
+      "GR.IC.FF.SEARCH"
+    ]
+  },
+  {
+    "code": "150600",
+    "parts": [
+      "GR.IC.FF.INTERCEPT"
+    ]
+  },
+  {
+    "code": "150700",
+    "parts": [
+      "GR.IC.INTERROGATION"
+    ]
+  },
+  {
+    "code": "150800",
+    "parts": [
+      "GR.IC.FF.JAMMING"
+    ]
+  },
+  {
+    "code": "150900",
+    "parts": [
+      "GR.IC.JOINT INTELLIGENCE CENTRE"
+    ]
+  },
+  {
+    "code": "151000",
+    "parts": [
+      "GR.IC.MILITARY INTELLIGENCE"
+    ]
+  },
+  {
+    "code": "151100",
+    "parts": [
+      "GR.IC.FF.SEARCH"
+    ]
+  },
+  {
+    "code": "151200",
+    "parts": [
+      "GR.IC.SENSOR"
+    ]
+  },
+  {
+    "code": "151300",
+    "parts": [
+      "GR.IC.MILITARY HISTORY"
+    ]
+  },
+  {
+    "code": "160000",
+    "parts": [
+      "GR.IC.SUSTAINMENT"
+    ]
+  },
+  {
+    "code": "160100",
+    "parts": [
+      "GR.IC.ADMINISTRATIVE"
+    ]
+  },
+  {
+    "code": "160200",
+    "parts": [
+      "GR.IC.FF.SUPPLY",
+      "GR.IC.FF.CLASS ALL"
+    ]
+  },
+  {
+    "code": "160300",
+    "parts": [
+      "GR.IC.TRANSPORTATION",
+      "GR.IC.AIRPORT OF DEBARKATION"
+    ]
+  },
+  {
+    "code": "160400",
+    "parts": [
+      "GR.IC.AMMUNITION"
+    ]
+  },
+  {
+    "code": "160500",
+    "parts": [
+      "GR.IC.BAND"
+    ]
+  },
+  {
+    "code": "160501",
+    "parts": [
+      "GR.IC.ARMY MUSIC"
+    ]
+  },
+  {
+    "code": "160600",
+    "parts": [
+      "GR.IC.COMBAT SERVICE SUPPORT"
+    ]
+  },
+  {
+    "code": "160700",
+    "parts": [
+      "GR.IC.FINANCE"
+    ]
+  },
+  {
+    "code": "160800",
+    "parts": [
+      "GR.IC.JUDGE ADVOCATE GENERAL"
+    ]
+  },
+  {
+    "code": "160900",
+    "parts": [
+      "GR.IC.LABOUR"
+    ]
+  },
+  {
+    "code": "161000",
+    "parts": [
+      "GR.IC.LAUNDRY/BATH"
+    ]
+  },
+  {
+    "code": "161100",
+    "parts": [
+      "GR.IC.MAINTENANCE"
+    ]
+  },
+  {
+    "code": "161200",
+    "parts": [
+      "GR.IC.FF.SUPPLY",
+      "GR.IC.MATERIEL"
+    ]
+  },
+  {
+    "code": "161300",
+    "parts": [
+      "GR.IC.FF.MEDICAL"
+    ]
+  },
+  {
+    "code": "161400",
+    "parts": [
+      "GR.IC.FF.MEDICAL TREATMENT FACILITY"
+    ]
+  },
+  {
+    "code": "161500",
+    "parts": [
+      "GR.IC.MORALE, WELFARE, AND RECREATION"
+    ]
+  },
+  {
+    "code": "161600",
+    "parts": [
+      "GR.IC.MORTUARY AFFAIRS"
+    ]
+  },
+  {
+    "code": "161700",
+    "parts": [
+      "GR.IC.FF.SUPPLY",
+      "GR.IC.FF.CLASS MULTIPLE"
+    ]
+  },
+  {
+    "code": "161800",
+    "parts": [
+      "GR.IC.FF.SUPPLY",
+      "GR.IC.FF.NATO SUPPLY CLASS I"
+    ]
+  },
+  {
+    "code": "161900",
+    "parts": [
+      "GR.IC.FF.SUPPLY",
+      "GR.IC.FF.NATO SUPPLY CLASS II"
+    ]
+  },
+  {
+    "code": "162000",
+    "parts": [
+      "GR.IC.FF.SUPPLY",
+      "GR.IC.FF.CLASS III"
+    ]
+  },
+  {
+    "code": "162100",
+    "parts": [
+      "GR.IC.FF.SUPPLY",
+      "GR.IC.FF.NATO SUPPLY CLASS IV"
+    ]
+  },
+  {
+    "code": "162200",
+    "parts": [
+      "GR.IC.FF.SUPPLY",
+      "GR.IC.FF.CLASS V"
+    ]
+  },
+  {
+    "code": "162300",
+    "parts": [
+      "GR.IC.ORDNANCE"
+    ]
+  },
+  {
+    "code": "162400",
+    "parts": [
+      "GR.IC.PERSONNEL SERVICES"
+    ]
+  },
+  {
+    "code": "162500",
+    "parts": [
+      "GR.IC.PETROLEUM OIL LUBRICANTS"
+    ]
+  },
+  {
+    "code": "162600",
+    "parts": [
+      "GR.IC.PIPELINE"
+    ]
+  },
+  {
+    "code": "162700",
+    "parts": [
+      "GR.IC.POSTAL"
+    ]
+  },
+  {
+    "code": "162800",
+    "parts": [
+      "GR.IC.PUBLIC AFFAIRS"
+    ]
+  },
+  {
+    "code": "162900",
+    "parts": [
+      "GR.IC.QUARTERMASTER"
+    ]
+  },
+  {
+    "code": "163000",
+    "parts": [
+      "GR.IC.RAILHEAD"
+    ]
+  },
+  {
+    "code": "163100",
+    "parts": [
+      "GR.IC.RELIGIOUS SUPPORT"
+    ]
+  },
+  {
+    "code": "163200",
+    "parts": [
+      "GR.IC.REPLACEMENT HOLDING UNIT"
+    ]
+  },
+  {
+    "code": "163300",
+    "parts": [
+      "GR.IC.SEAPORT OF DEBARKATION"
+    ]
+  },
+  {
+    "code": "163400",
+    "parts": [
+      "GR.IC.FF.SUPPLY"
+    ]
+  },
+  {
+    "code": "163500",
+    "parts": [
+      "GR.IC.JOINT INFORMATION BUREAU"
+    ]
+  },
+  {
+    "code": "163600",
+    "parts": [
+      "GR.IC.TRANSPORTATION"
+    ]
+  },
+  {
+    "code": "163601",
+    "parts": [
+      "GR.IC.TRANSPORTATION",
+      "GR.IC.FLOATING CRAFT"
+    ]
+  },
+  {
+    "code": "163700",
+    "parts": [
+      "GR.IC.FF.SUPPLY",
+      "GR.IC.FF.CLASS I"
+    ]
+  },
+  {
+    "code": "163800",
+    "parts": [
+      "GR.IC.FF.SUPPLY",
+      "GR.IC.FF.CLASS II"
+    ]
+  },
+  {
+    "code": "163900",
+    "parts": [
+      "GR.IC.FF.SUPPLY",
+      "GR.IC.FF.CLASS III"
+    ]
+  },
+  {
+    "code": "164000",
+    "parts": [
+      "GR.IC.FF.SUPPLY",
+      "GR.IC.FF.CLASS IV"
+    ]
+  },
+  {
+    "code": "164100",
+    "parts": [
+      "GR.IC.FF.SUPPLY",
+      "GR.IC.FF.CLASS V"
+    ]
+  },
+  {
+    "code": "164200",
+    "parts": [
+      "GR.IC.FF.SUPPLY",
+      "GR.IC.FF.CLASS VI"
+    ]
+  },
+  {
+    "code": "164300",
+    "parts": [
+      "GR.IC.FF.SUPPLY",
+      "GR.IC.FF.CLASS VII"
+    ]
+  },
+  {
+    "code": "164400",
+    "parts": [
+      "GR.IC.FF.SUPPLY",
+      "GR.IC.FF.CLASS VIII"
+    ]
+  },
+  {
+    "code": "164500",
+    "parts": [
+      "GR.IC.FF.SUPPLY",
+      "GR.IC.FF.CLASS IX"
+    ]
+  },
+  {
+    "code": "164600",
+    "parts": [
+      "GR.IC.FF.SUPPLY",
+      "GR.IC.FF.CLASS X"
+    ]
+  },
+  {
+    "code": "164700",
+    "parts": [
+      "GR.IC.WATER"
+    ]
+  },
+  {
+    "code": "164800",
+    "parts": [
+      "GR.IC.WATER PURIFICATION"
+    ]
+  },
+  {
+    "code": "164900",
+    "parts": [
+      "GR.IC.PUBLIC AFFAIRS BROADCAST"
+    ]
+  },
+  {
+    "code": "165000",
+    "parts": [
+      "GR.IC.FF.SUPPLY",
+      "GR.IC.FF.NATO SUPPLY CLASS ALL"
+    ]
+  },
+  {
+    "code": "165100",
+    "parts": [
+      "GR.IC.INTERPRETER/TRANSLATOR"
+    ]
+  },
+  {
+    "code": "165200",
+    "parts": [
+      "GR.IC.SUPPORT"
+    ]
+  },
+  {
+    "code": "165300",
+    "parts": [
+      "GR.IC.ARMY FIELD SUPPORT"
+    ]
+  },
+  {
+    "code": "165400",
+    "parts": [
+      "GR.IC.CONTRACTING SERVICES"
+    ]
+  },
+  {
+    "code": "165500",
+    "parts": [
+      "GR.IC.PARACHUTE RIGGER"
+    ]
+  },
+  {
+    "code": "165600",
+    "parts": [
+      "GR.IC.HUMAN RESOURCES"
+    ]
+  },
+  {
+    "code": "170100",
+    "parts": [
+      "GR.IC.NAVAL"
+    ]
+  },
+  {
+    "code": "180100",
+    "parts": [
+      "GR.IC.ALLIED COMMAND EUROPE RAPID REACTION CORPS (ARRC)"
+    ]
+  },
+  {
+    "code": "180200",
+    "parts": [
+      "GR.IC.ALLIED COMMAND OPERATIONS"
+    ]
+  },
+  {
+    "code": "180300",
+    "parts": [
+      "GR.IC.INTERNATIONAL SECURITY ASSISTANCE FORCE (ISAF)"
+    ]
+  },
+  {
+    "code": "180400",
+    "parts": [
+      "GR.IC.MULTINATIONAL (MN)"
+    ]
+  },
+  {
+    "code": "190000",
+    "parts": [
+      "GR.IC.FF.EMERGENCY OPERATION"
+    ]
+  },
+  {
+    "code": "200000",
+    "parts": [
+      "GR.IC.FF.LAW ENFORCEMENT"
+    ]
+  },
+  {
+    "code": "200200",
+    "parts": [
+      "GR.IC.FF.BORDER PATROL"
+    ]
+  },
+  {
+    "code": "200300",
+    "parts": [
+      "GR.IC.FF.CUSTOMS SERVICE"
+    ]
+  },
+  {
+    "code": "200400",
+    "parts": [
+      "GR.IC.DRUG ENFORCEMENT AGENCY (DEA)"
+    ]
+  },
+  {
+    "code": "200500",
+    "parts": [
+      "GR.IC.FF.DEPARTMENT OF JUSTICE (DOJ)"
+    ]
+  },
+  {
+    "code": "200600",
+    "parts": [
+      "GR.IC.FEDERAL BUREAU OF INVESTIGATION (FBI)"
+    ]
+  },
+  {
+    "code": "200700",
+    "parts": [
+      "GR.IC.LAW ENFORCEMENT"
+    ]
+  },
+  {
+    "code": "200800",
+    "parts": [
+      "GR.IC.FF.PRISON"
+    ]
+  },
+  {
+    "code": "200900",
+    "parts": [
+      "GR.IC.UNITED STATES SECRET SERVICE(TREAS) (USSS)"
+    ]
+  },
+  {
+    "code": "201000",
+    "parts": [
+      "GR.IC.TRANSPORTATION SECURITY AGENCY (TSA)"
+    ]
+  },
+  {
+    "code": "201100",
+    "parts": [
+      "GR.IC.LAW ENFORCEMENT VESSEL"
+    ]
+  },
+  {
+    "code": "201200",
+    "parts": [
+      "GR.IC.FF.US MARSHALS SERVICE"
+    ]
+  },
+  {
+    "code": "201300",
+    "parts": [
+      "ST.IC.INTERNAL SECURITY FORCE"
+    ]
+  },
+  {
+    "code": "210000",
+    "parts": [
+      "GR.IC.CYBER"
+    ]
+  }
+]

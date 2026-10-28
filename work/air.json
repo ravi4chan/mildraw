@@ -1,0 +1,314 @@
+[
+  {
+    "code": "110000",
+    "parts": [
+      "AR.I.MILITARY"
+    ]
+  },
+  {
+    "code": "110100",
+    "parts": [
+      "AR.I.FIXED-WING DSymbol"
+    ]
+  },
+  {
+    "code": "110101",
+    "parts": [
+      "AR.I.MEDICAL EVACUATION"
+    ]
+  },
+  {
+    "code": "110102",
+    "parts": [
+      "AR.I.ATTACK/STRIKE"
+    ]
+  },
+  {
+    "code": "110103",
+    "parts": [
+      "AR.I.BOMBER"
+    ]
+  },
+  {
+    "code": "110104",
+    "parts": [
+      "AR.I.FIGHTER"
+    ]
+  },
+  {
+    "code": "110105",
+    "parts": [
+      "AR.I.FIGHTER/BOMBER"
+    ]
+  },
+  {
+    "code": "110107",
+    "parts": [
+      "AR.I.CARGO"
+    ]
+  },
+  {
+    "code": "110108",
+    "parts": [
+      "AR.I.JAMMER / ELECTRONIC COUNTER-MEASURES"
+    ]
+  },
+  {
+    "code": "110109",
+    "parts": [
+      "AR.I.TANKER"
+    ]
+  },
+  {
+    "code": "110110",
+    "parts": [
+      "AR.I.PATROL"
+    ]
+  },
+  {
+    "code": "110111",
+    "parts": [
+      "AR.I.RECONNAISSANCE"
+    ]
+  },
+  {
+    "code": "110112",
+    "parts": [
+      "AR.I.TRAINER"
+    ]
+  },
+  {
+    "code": "110113",
+    "parts": [
+      "AR.I.UTILITY"
+    ]
+  },
+  {
+    "code": "110114",
+    "parts": [
+      "AR.I.VSTOL"
+    ]
+  },
+  {
+    "code": "110115",
+    "parts": [
+      "AR.I.AIRBORNE COMMAND POST"
+    ]
+  },
+  {
+    "code": "110116",
+    "parts": [
+      "AR.I.AIRBORNE EARLY WARNING"
+    ]
+  },
+  {
+    "code": "110117",
+    "parts": [
+      "AR.I.ANTISURFACE WARFARE"
+    ]
+  },
+  {
+    "code": "110118",
+    "parts": [
+      "AR.I.ANTISUBMARINE WARFARE"
+    ]
+  },
+  {
+    "code": "110119",
+    "parts": [
+      "AR.I.COMMUNICATIONS"
+    ]
+  },
+  {
+    "code": "110120",
+    "parts": [
+      "AR.I.COMBAT SEARCH AND RESCUE"
+    ]
+  },
+  {
+    "code": "110121",
+    "parts": [
+      "AR.I.ELECTRONIC SUPPORT"
+    ]
+  },
+  {
+    "code": "110122",
+    "parts": [
+      "AR.I.GOVERNMENT"
+    ]
+  },
+  {
+    "code": "110123",
+    "parts": [
+      "AR.I.MINE COUNTERMEASURES"
+    ]
+  },
+  {
+    "code": "110124",
+    "parts": [
+      "AR.I.PERSONNEL RECOVERY DSymbol"
+    ]
+  },
+  {
+    "code": "110125",
+    "parts": [
+      "AR.I.SEARCH AND RESCUE"
+    ]
+  },
+  {
+    "code": "110126",
+    "parts": [
+      "AR.I.SPECIAL OPERATIONS FORCES"
+    ]
+  },
+  {
+    "code": "110127",
+    "parts": [
+      "AR.I.ULTRA LIGHT"
+    ]
+  },
+  {
+    "code": "110128",
+    "parts": [
+      "AR.I.PHOTOGRAPHIC RECONNAISSANCE"
+    ]
+  },
+  {
+    "code": "110129",
+    "parts": [
+      "AR.I.VIP"
+    ]
+  },
+  {
+    "code": "110130",
+    "parts": [
+      "AR.I.SUPRESSION OF ENEMY AIR DEFENCE"
+    ]
+  },
+  {
+    "code": "110131",
+    "parts": [
+      "AR.I.PASSENGER"
+    ]
+  },
+  {
+    "code": "110132",
+    "parts": [
+      "AR.I.ESCORT"
+    ]
+  },
+  {
+    "code": "110133",
+    "parts": [
+      "AR.I.ELECTRONIC ATTACK (EA)"
+    ]
+  },
+  {
+    "code": "110200",
+    "parts": [
+      "AR.I.MILITARY ROTARY WING"
+    ]
+  },
+  {
+    "code": "110300",
+    "parts": [
+      "AR.I.UNMANNED AERIAL VEHICLE"
+    ]
+  },
+  {
+    "code": "110400",
+    "parts": [
+      "AR.I.VERTICAL-TAKEOFF UAV (VT-UAV)"
+    ]
+  },
+  {
+    "code": "110500",
+    "parts": [
+      "AR.I.MILITARY BALLOON"
+    ]
+  },
+  {
+    "code": "110600",
+    "parts": [
+      "AR.I.MILITARY AIRSHIP"
+    ]
+  },
+  {
+    "code": "110700",
+    "parts": [
+      "AR.I.TETHERED LIGHTER THAN AIR"
+    ]
+  },
+  {
+    "code": "120000",
+    "parts": [
+      "AR.I.CIVILIAN"
+    ]
+  },
+  {
+    "code": "120100",
+    "parts": [
+      "AR.I.CIVILIAN FIXED-WING DSymbol"
+    ]
+  },
+  {
+    "code": "120200",
+    "parts": [
+      "AR.I.CIVILIAN ROTARY WING"
+    ]
+  },
+  {
+    "code": "120300",
+    "parts": [
+      "AR.I.CIVILIAN UNMANNED AERIAL VEHICLE"
+    ]
+  },
+  {
+    "code": "120400",
+    "parts": [
+      "AR.I.CIVILIAN BALLOON"
+    ]
+  },
+  {
+    "code": "120500",
+    "parts": [
+      "AR.I.CIVILIAN AIRSHIP"
+    ]
+  },
+  {
+    "code": "120600",
+    "parts": [
+      "AR.I.CIVILIAN TETHERED LIGHTER THAN AIR"
+    ]
+  },
+  {
+    "code": "120700",
+    "parts": [
+      "AR.I.CIVILIAN MEDICAL EVACUATION"
+    ]
+  },
+  {
+    "code": "130000",
+    "parts": [
+      "AR.I.WEAPON"
+    ]
+  },
+  {
+    "code": "130100",
+    "parts": [
+      "AR.I.BOMB"
+    ]
+  },
+  {
+    "code": "130200",
+    "parts": [
+      "AR.I.UNDERWATER DECOY DSymbol"
+    ]
+  },
+  {
+    "code": "140000",
+    "parts": [
+      "AR.I.MANUAL TRACK"
+    ]
+  }
+]

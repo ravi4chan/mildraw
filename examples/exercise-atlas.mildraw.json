@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "notationProfile": "illustrative-v1",
+  "title": "Exercise Atlas \u00b7 sample briefing",
+  "items": [
+    {
+      "id": "sample-0",
+      "templateId": "armoured-regiment",
+      "designation": "66",
+      "coordinate": [76.84, 30.73],
+      "sketch": null,
+      "size": 90,
+      "rotation": 0,
+      "color": "#354d3b",
+      "notes": "Fictional exercise marker. Illustrative notation only."
+    },
+    {
+      "id": "sample-1",
+      "templateId": "infantry-battalion",
+      "designation": "12",
+      "coordinate": [76.92, 30.72],
+      "sketch": null,
+      "size": 90,
+      "rotation": 0,
+      "color": "#354d3b",
+      "notes": "Fictional exercise marker. Illustrative notation only."
+    },
+    {
+      "id": "sample-2",
+      "templateId": "artillery-regiment",
+      "designation": "41",
+      "coordinate": [76.89, 30.66],
+      "sketch": null,
+      "size": 90,
+      "rotation": 0,
+      "color": "#354d3b",
+      "notes": "Fictional exercise marker. Illustrative notation only."
+    },
+    {
+      "id": "sample-3",
+      "templateId": "engineer-company",
+      "designation": "7",
+      "coordinate": [76.96, 30.77],
+      "sketch": null,
+      "size": 90,
+      "rotation": 0,
+      "color": "#354d3b",
+      "notes": "Fictional exercise marker. Illustrative notation only."
+    },
+    {
+      "id": "sample-4",
+      "templateId": "logistics-company",
+      "designation": "3",
+      "coordinate": [76.8, 30.66],
+      "sketch": null,
+      "size": 90,
+      "rotation": 0,
+      "color": "#354d3b",
+      "notes": "Fictional exercise marker. Illustrative notation only."
+    }
+  ],
+  "drawings": [
+    {
+      "id": "sample-arrow",
+      "type": "arrow",
+      "points": [
+        [76.85, 30.68],
+        [76.91, 30.74]
+      ],
+      "text": "",
+      "color": "#354d3b"
+    },
+    {
+      "id": "sample-text",
+      "type": "text",
+      "points": [[76.81, 30.79]],
+      "text": "EXERCISE ATLAS \u00b7 SAMPLE",
+      "color": "#354d3b"
+    }
+  ],
+  "inactiveDrawings": [],
+  "mode": "terrain",
+  "camera": {
+    "center": [76.9, 30.7],
+    "zoom": 11
+  },
+  "grid": {
+    "visible": true,
+    "precision": 4,
+    "color": "#53604d",
+    "opacity": 0.32,
+    "weight": 1
+  },
+  "labels": true,
+  "basemap": "openfreemap-liberty"
+}
